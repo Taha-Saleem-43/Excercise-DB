@@ -1,3 +1,135 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6aac9ca92acf37045ea40fe8cb9ccd3df21a986382615247b04c0d9fc920bfdd
-size 2523
+=== Legs / Glutes ===
+1. Barbell Squat
+2. Front Squat
+3. Goblet Squat
+4. Bodyweight Squat
+5. Smith Machine Squat
+6. Leg Press
+7. Hack Squat
+8. Leg Extension
+9. Leg Curl
+10. Romanian Deadlift
+11. Barbell Deadlift
+12. Dumbbell Romanian Deadlift
+13. Stiff-Leg Deadlift
+14. Hip Thrust
+15. Glute Bridge
+16. Bulgarian Split Squat
+17. Walking Lunge
+18. Reverse Lunge
+19. Forward Lunge
+20. Dumbbell Lunge
+21. Step-Up
+22. Cable Glute Kickback
+23. Hip Abduction
+24. Hip Adduction
+25. Standing Calf Raise
+26. Seated Calf Raise
+27. Single-Leg Calf Raise
+
+=== Chest ===
+28. Barbell Bench Press
+29. Dumbbell Bench Press
+30. Incline Barbell Bench Press
+31. Incline Dumbbell Press
+32. Decline Bench Press
+33. Machine Chest Press
+34. Cable Chest Press
+35. Push-Up
+36. Incline Push-Up
+37. Decline Push-Up
+38. Chest Fly
+39. Cable Crossover
+40. Dumbbell Pullover
+41. Chest Dips
+
+=== Back ===
+42. Pull-Up
+43. Chin-Up
+44. Assisted Pull-Up
+45. Lat Pulldown
+46. Close-Grip Lat Pulldown
+47. Barbell Row
+48. Dumbbell Row
+49. Seated Cable Row
+50. T-Bar Row
+51. Chest-Supported Row
+52. Machine Row
+53. Single-Arm Cable Row
+54. Straight-Arm Pulldown
+55. Face Pull
+56. Back Extension
+57. Hyperextension
+58. Barbell Shrug
+
+=== Shoulders ===
+59. Barbell Shoulder Press
+60. Dumbbell Shoulder Press
+61. Arnold Press
+62. Machine Shoulder Press
+63. Dumbbell Lateral Raise
+64. Cable Lateral Raise
+65. Machine Lateral Raise
+66. Dumbbell Front Raise
+67. Cable Front Raise
+68. Rear Delt Fly
+69. Reverse Pec Deck
+70. Upright Row
+
+=== Biceps ===
+71. Barbell Bicep Curl
+72. Dumbbell Bicep Curl
+73. Hammer Curl
+74. Incline Dumbbell Curl
+75. Preacher Curl
+76. Concentration Curl
+77. Cable Bicep Curl
+78. EZ-Bar Curl
+
+=== Triceps ===
+79. Cable Tricep Pushdown
+80. Rope Tricep Pushdown
+81. Overhead Tricep Extension
+82. Dumbbell Overhead Extension
+83. Skull Crusher
+84. Close-Grip Bench Press
+85. Tricep Dips
+86. Dumbbell Tricep Kickback
+
+=== Core ===
+87. Crunch
+88. Sit-Up
+89. Plank
+90. Side Plank
+91. Reverse Crunch
+92. Bicycle Crunch
+93. Russian Twist
+94. Leg Raise
+95. Hanging Leg Raise
+96. Knee Raise
+97. Mountain Climber
+98. Cable Crunch
+99. Ab Wheel Rollout
+100. Dead Bug
+101. Bird Dog
+102. V-Up
+
+=== Conditioning ===
+103. Jumping Jack
+104. Burpee
+105. High Knees
+106. Butt Kicks
+107. Jump Squat
+108. Skater
+109. Box Jump
+110. Jump Rope
+111. Bear Crawl
+112. Bodyweight Lateral Lunge
+113. Kettlebell Swing
+114. Kettlebell Goblet Squat
+115. Kettlebell Deadlift
+116. Kettlebell Clean
+117. Kettlebell Shoulder Press
+118. Battle Rope
+119. Farmer's Walk
+120. Sled Push
