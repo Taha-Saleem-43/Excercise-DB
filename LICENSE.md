@@ -40,7 +40,7 @@ All exercise demonstration videos included in this dataset are:
 
 To obtain a commercial license, contact:
 
-**Email**: [your-email@example.com]  
+**Email**: tahasaleemdev@gmail.com  
 **Subject**: FitAI Dataset — Commercial License Request
 
 Commercial licenses are available as:

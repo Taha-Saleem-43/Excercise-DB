@@ -117,7 +117,7 @@ This dataset is **free for personal and academic use**.
 
 > ⚠️ **Commercial use requires a paid license.** This includes using the dataset in apps, SaaS products, AI training pipelines, or any monetized platform.
 
-📩 **Get a Commercial License**: Contact [your-email@example.com]
+📩 **Get a Commercial License**: Contact tahasaleemdev@gmail.com
 
 See [LICENSE.md](./LICENSE.md) for full terms.
 
