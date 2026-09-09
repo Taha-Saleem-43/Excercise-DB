@@ -26,6 +26,28 @@
 25. Standing Calf Raise
 26. Seated Calf Raise
 27. Single-Leg Calf Raise
+121. Trap Bar Deadlift
+122. Single-Leg Dumbbell RDL
+123. Barbell Good Morning
+124. Glute-Ham Raise
+125. Pistol Squat
+126. Sissy Squat
+127. Curtsy Lunge
+128. Zercher Squat
+129. Single-Leg Press
+130. Donkey Calf Raise
+131. Leg Press Calf Raise
+132. Single-Leg Hip Thrust
+133. Kettlebell Front Squat
+134. Frog Pump
+135. Dumbbell Reverse Lunge
+136. Wall Sit
+137. Donkey Kick
+138. Fire Hydrant
+139. Clamshell
+140. Single-Leg Glute Bridge
+141. Glute Rainbows
+142. Prisoner Good Morning
 
 === Chest ===
 28. Barbell Bench Press
@@ -42,6 +64,13 @@
 39. Cable Crossover
 40. Dumbbell Pullover
 41. Chest Dips
+206. Low-to-High Cable Fly
+207. Machine Chest Fly
+208. Wide-Grip Barbell Bench Press
+209. Svend Press
+210. Wide-Grip Push-Up
+211. Archer Push-Up
+212. Hand-Release Push-Up
 
 === Back ===
 42. Pull-Up
@@ -61,6 +90,16 @@
 56. Back Extension
 57. Hyperextension
 58. Barbell Shrug
+143. Inverted Row
+144. Neutral-Grip Pull-Up
+145. Muscle-Up
+146. Pendlay Row
+147. One-Arm Landmine Row
+148. Renegade Row
+149. Cable Pullover
+150. Cable High Row
+151. Superman
+152. Prone Y-T-W Raises
 
 === Shoulders ===
 59. Barbell Shoulder Press
@@ -75,6 +114,19 @@
 68. Rear Delt Fly
 69. Reverse Pec Deck
 70. Upright Row
+193. Pike Push-Up
+194. Handstand Push-Up
+195. Wall Handstand Hold
+196. Dumbbell Cuban Press
+197. Cable Reverse Fly
+198. Cable Rear Delt Row
+199. Band Y-Raise
+200. Kettlebell Push Press
+201. Machine Single-Arm Shoulder Press
+202. Band Lateral Raise
+203. Band Shoulder Press
+204. Incline Rear Delt Raise
+205. Barbell Bradford Press
 
 === Biceps ===
 71. Barbell Bicep Curl
@@ -113,6 +165,28 @@
 100. Dead Bug
 101. Bird Dog
 102. V-Up
+153. Dumbbell Side Bend
+154. Cable Woodchopper
+155. Cable Seated Twist
+156. Pallof Press
+157. Machine Crunch
+158. Kettlebell Windmill
+159. Cross-Body Crunch
+160. Jackknife Sit-Up
+161. Alternate Heel Touches
+162. Captain's Chair Leg Raise
+163. Cocoon Crunch
+164. Decline Sit-Up
+165. Forearm Plank Pike
+166. Flutter Kicks
+167. Scissor Kicks
+168. Hollow Body Hold
+169. Plank Shoulder Taps
+170. Side Plank Hip Dips
+171. Commando Plank
+172. Spiderman Plank
+173. Reverse Plank
+174. Bear Plank Hold
 
 === Conditioning ===
 103. Jumping Jack
@@ -133,3 +207,21 @@
 118. Battle Rope
 119. Farmer's Walk
 120. Sled Push
+175. Barbell Thruster
+176. Dumbbell Snatch
+177. Kettlebell Snatch
+178. Kettlebell Clean and Jerk
+179. Turkish Get-Up
+180. Tire Flip
+181. Medicine Ball Slam
+182. Broad Jump
+183. Star Jump
+184. Jumping Lunge
+185. Incline Treadmill Walk
+186. Stationary Bike
+187. Rope Climb
+188. Sprawl
+189. Plank Jacks
+190. Step Jacks
+191. Shadow Boxing
+192. Inchworm

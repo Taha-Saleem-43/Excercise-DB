@@ -2,8 +2,8 @@
   "project": "FitAI",
   "version": "2.0",
   "schema_version": "2.0",
-  "generated_at": "2026-09-08",
-  "count": 120,
+  "generated_at": "2026-09-09",
+  "count": 212,
   "groups": [
     "back",
     "biceps",
@@ -3404,6 +3404,2642 @@
         "strength endurance"
       ],
       "instructions_en": "Load the sled with the desired weight. Stand behind the sled and grip the handles, leaning forward at roughly a 45-degree angle. Drive through your legs to push the sled forward, taking short powerful steps. Keep your core engaged and your back flat throughout the movement. Continue pushing for the desired distance or time."
+    },
+    {
+      "id": 121,
+      "name": "Trap Bar Deadlift",
+      "group": "legs_glutes",
+      "folder": "Legs-Glutes",
+      "video_path": "Legs-Glutes/Trap_Bar_Deadlift.mp4",
+      "equipment": "barbell",
+      "body_part": "upper legs",
+      "primary_muscles": [
+        "glutes",
+        "quadriceps",
+        "hamstrings"
+      ],
+      "secondary_muscles": [
+        "lower back",
+        "traps",
+        "forearms",
+        "calves"
+      ],
+      "difficulty": "intermediate",
+      "force": "pull",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "deadlift",
+        "trap bar",
+        "legs",
+        "glutes",
+        "strength"
+      ],
+      "instructions_en": "Step inside the center of the hexagonal trap bar with feet positioned hip-width apart. Hinge deeply at the hips and bend the knees to lower your torso with a neutral spine, firmly grasping the neutral parallel handles at your sides. Depress your shoulder blades and brace your core tightly. Drive forcefully into the floor through your heels and midfoot, extending your knees and hips simultaneously to lift the trap bar vertically. Stand tall at the top lockout with your glutes squeezed, hips fully open, and shoulders neutral without hyperextending the lower back. Lower the bar smoothly under control along the same vertical line by pushing your hips back and bending your knees until the weight plates lightly touch the floor."
+    },
+    {
+      "id": 122,
+      "name": "Single-Leg Dumbbell RDL",
+      "group": "legs_glutes",
+      "folder": "Legs-Glutes",
+      "video_path": "Legs-Glutes/Single-Leg_Dumbbell_RDL.mp4",
+      "equipment": "dumbbell",
+      "body_part": "upper legs",
+      "primary_muscles": [
+        "hamstrings",
+        "glutes"
+      ],
+      "secondary_muscles": [
+        "lower back",
+        "calves",
+        "core"
+      ],
+      "difficulty": "intermediate",
+      "force": "pull",
+      "mechanic": "compound",
+      "is_unilateral": true,
+      "tags": [
+        "dumbbell",
+        "hamstrings",
+        "glutes",
+        "balance",
+        "unilateral",
+        "rdl"
+      ],
+      "instructions_en": "Stand tall balancing on your right foot with a soft, unlocked knee, holding a dumbbell in your left hand (or one in each hand) at your side. Keeping your back flat, chest open, and core braced, hinge backward at your right hip, lowering your torso toward the floor while extending your left leg straight back behind you in line with your spine. Lower the dumbbell straight down in front of your right shin until your torso is nearly parallel to the floor, feeling an intense stretch in your right hamstring and glute. Squeeze the right glute and press through the right heel and midfoot to drive your hips forward, returning smoothly to the tall single-leg standing starting position."
+    },
+    {
+      "id": 123,
+      "name": "Barbell Good Morning",
+      "group": "legs_glutes",
+      "folder": "Legs-Glutes",
+      "video_path": "Legs-Glutes/Barbell_Good_Morning.mp4",
+      "equipment": "barbell",
+      "body_part": "upper legs",
+      "primary_muscles": [
+        "hamstrings",
+        "glutes"
+      ],
+      "secondary_muscles": [
+        "lower back",
+        "erector spinae",
+        "core"
+      ],
+      "difficulty": "intermediate",
+      "force": "pull",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "good morning",
+        "barbell",
+        "posterior chain",
+        "hamstrings"
+      ],
+      "instructions_en": "Unrack a barbell across your upper trapezius in a high-bar back squat position, stepping back with feet placed shoulder-width apart and a slight soft bend in your knees. Inhale, brace your core, and pull your elbows down to secure the bar against your traps. Keeping your spine completely neutral and chest proud, hinge backward at your hips, pushing your glutes toward the wall behind you while allowing your torso to incline forward. Continue hinging until your torso reaches roughly parallel to the floor, feeling a deep stretch loaded through your hamstrings and glutes. Drive your hips forward forcefully and squeeze your glutes at the top to return to the tall standing starting position."
+    },
+    {
+      "id": 124,
+      "name": "Glute-Ham Raise",
+      "group": "legs_glutes",
+      "folder": "Legs-Glutes",
+      "video_path": "Legs-Glutes/Glute-Ham_Raise.mp4",
+      "equipment": "body weight",
+      "body_part": "upper legs",
+      "primary_muscles": [
+        "hamstrings",
+        "glutes"
+      ],
+      "secondary_muscles": [
+        "calves",
+        "lower back"
+      ],
+      "difficulty": "advanced",
+      "force": "pull",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "glute ham raise",
+        "ghr",
+        "bodyweight",
+        "hamstrings",
+        "posterior chain"
+      ],
+      "instructions_en": "Lock your ankles securely between the rear foot rollers of a Glute-Ham Raise (GHR) bench, with your knees resting comfortably on the curved thigh pad. Begin with your body fully upright, forming a vertical straight line from knees through hips to shoulders, arms folded across your chest. Slowly lower your upper body forward by extending at the knee joint in a strict, controlled eccentric descent until your entire torso and thighs form a straight horizontal line parallel to the floor. Engage your calves and hamstrings forcefully, flexing your knees to curl your body back upward along the same arc to the upright starting position, keeping hips fully extended throughout."
+    },
+    {
+      "id": 125,
+      "name": "Pistol Squat",
+      "group": "legs_glutes",
+      "folder": "Legs-Glutes",
+      "video_path": "Legs-Glutes/Pistol_Squat.mp4",
+      "equipment": "body weight",
+      "body_part": "upper legs",
+      "primary_muscles": [
+        "quadriceps",
+        "glutes"
+      ],
+      "secondary_muscles": [
+        "hamstrings",
+        "calves",
+        "core"
+      ],
+      "difficulty": "advanced",
+      "force": "push",
+      "mechanic": "compound",
+      "is_unilateral": true,
+      "tags": [
+        "pistol squat",
+        "single-leg",
+        "bodyweight",
+        "mobility",
+        "quadriceps"
+      ],
+      "instructions_en": "Stand tall on your right leg with your left leg extended straight out in front of you, toes pointed upward, and arms reaching forward at shoulder height for counterbalance. Inhale, brace your core, and initiate the squat by pushing your right hip back and bending the right knee. Descend smoothly into a full-depth single-leg squat until the back of your right thigh touches your right calf, keeping your right foot completely flat on the floor and your left leg hovering straight off the ground. Pause for a split-second at the bottom of the range, then press powerfully through your right midfoot and heel to rise smoothly back to the single-leg standing starting position."
+    },
+    {
+      "id": 126,
+      "name": "Sissy Squat",
+      "group": "legs_glutes",
+      "folder": "Legs-Glutes",
+      "video_path": "Legs-Glutes/Sissy_Squat.mp4",
+      "equipment": "body weight",
+      "body_part": "upper legs",
+      "primary_muscles": [
+        "quadriceps"
+      ],
+      "secondary_muscles": [
+        "core",
+        "calves"
+      ],
+      "difficulty": "intermediate",
+      "force": "push",
+      "mechanic": "isolation",
+      "is_unilateral": false,
+      "tags": [
+        "sissy squat",
+        "quadriceps",
+        "bodyweight",
+        "quad isolation"
+      ],
+      "instructions_en": "Stand upright with feet hip-width apart, holding onto a sturdy vertical upright bar lightly with one hand for balance if needed. Keeping your body in a rigid straight line from knees through hips to shoulders, bend your knees forward while leaning your torso backward at the same angle, allowing your heels to rise naturally onto the balls of your feet. Lower your body smoothly under quad tension until your knees achieve a 90-degree or greater bend and your shins are angled sharply forward. Press firmly into the balls of your feet and contract your quadriceps powerfully to pull your torso and knees back to the upright vertical starting position."
+    },
+    {
+      "id": 127,
+      "name": "Curtsy Lunge",
+      "group": "legs_glutes",
+      "folder": "Legs-Glutes",
+      "video_path": "Legs-Glutes/Curtsy_Lunge.mp4",
+      "equipment": "body weight",
+      "body_part": "upper legs",
+      "primary_muscles": [
+        "glutes",
+        "quadriceps"
+      ],
+      "secondary_muscles": [
+        "hamstrings",
+        "adductors",
+        "calves"
+      ],
+      "difficulty": "beginner",
+      "force": "push",
+      "mechanic": "compound",
+      "is_unilateral": true,
+      "tags": [
+        "lunge",
+        "curtsy lunge",
+        "glutes",
+        "bodyweight",
+        "quadriceps"
+      ],
+      "instructions_en": "Stand tall with feet hip-width apart and hands clasped in front of your chest with an upright torso. Keeping your weight centered on your front left foot, step your right leg backward and diagonally across behind your left leg as if curtsying. Bend both knees smoothly, lowering your hips until your left front thigh is parallel to the floor and your right rear knee hovers two inches above the ground, keeping your hips and shoulders facing squarely forward. Press firmly through your left front heel and midfoot to push back upward, stepping your right foot back to meet the left at the starting stance."
+    },
+    {
+      "id": 128,
+      "name": "Zercher Squat",
+      "group": "legs_glutes",
+      "folder": "Legs-Glutes",
+      "video_path": "Legs-Glutes/Zercher_Squat.mp4",
+      "equipment": "barbell",
+      "body_part": "upper legs",
+      "primary_muscles": [
+        "quadriceps",
+        "glutes"
+      ],
+      "secondary_muscles": [
+        "core",
+        "upper back",
+        "biceps",
+        "hamstrings"
+      ],
+      "difficulty": "advanced",
+      "force": "push",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "zercher squat",
+        "barbell",
+        "quadriceps",
+        "core",
+        "strength"
+      ],
+      "instructions_en": "Cradle a barbell securely in the crooks of your elbows, holding your forearms upright with hands clasped together firmly against your chest in a Zercher rack. Stand with feet shoulder-width apart, toes turned slightly outward, and shoulder blades retracted. Brace your core tightly and sit your hips back and down, opening your knees wide so your elbows can descend between your thighs. Lower until your hips pass parallel with your thighs with an upright spine, pause for a moment at the bottom, then drive through your heels and midfoot to push back up to the standing starting position."
+    },
+    {
+      "id": 129,
+      "name": "Single-Leg Press",
+      "group": "legs_glutes",
+      "folder": "Legs-Glutes",
+      "video_path": "Legs-Glutes/Single-Leg_Press.mp4",
+      "equipment": "leverage machine",
+      "body_part": "upper legs",
+      "primary_muscles": [
+        "quadriceps",
+        "glutes"
+      ],
+      "secondary_muscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "difficulty": "intermediate",
+      "force": "push",
+      "mechanic": "compound",
+      "is_unilateral": true,
+      "tags": [
+        "leg press",
+        "machine",
+        "unilateral",
+        "quadriceps",
+        "glutes"
+      ],
+      "instructions_en": "Sit in a 45-degree leg press machine with your back and glutes pressed flat against the padded seat. Place your right foot squarely in the center of the sled footplate with toes pointing forward or slightly outward, resting your left foot comfortably off to the side. Release the safety handles and grasp the side grips. Slowly lower the weighted sled by bending your right knee, bringing the sled down under control until your right knee forms a clean 90-degree angle without letting your lower back peel off the backrest. Press powerfully through your right heel and midfoot to extend the sled back to the top position, stopping just shy of locking out the knee."
+    },
+    {
+      "id": 130,
+      "name": "Donkey Calf Raise",
+      "group": "legs_glutes",
+      "folder": "Legs-Glutes",
+      "video_path": "Legs-Glutes/Donkey_Calf_Raise.mp4",
+      "equipment": "body weight",
+      "body_part": "lower legs",
+      "primary_muscles": [
+        "calves"
+      ],
+      "secondary_muscles": [
+        "hamstrings"
+      ],
+      "difficulty": "beginner",
+      "force": "push",
+      "mechanic": "isolation",
+      "is_unilateral": false,
+      "tags": [
+        "calves",
+        "gastrocnemius",
+        "bodyweight",
+        "calf raise"
+      ],
+      "instructions_en": "Position the balls of your feet on an elevated calf raise block, allowing your heels to hang completely free off the rear edge. Hinge your torso forward at the hips to roughly 90 degrees, resting your forearms and chest against the padded support of a donkey calf machine (or a high gym bench) with a flat spine. Lower your heels slowly and deeply below the level of the block to achieve a maximum stretch through your gastrocnemius. Drive straight up through the balls of your big toes, raising your heels as high as possible into peak plantarflexion. Hold the contraction for a full second at the top, then lower smoothly back into the deep stretch."
+    },
+    {
+      "id": 131,
+      "name": "Leg Press Calf Raise",
+      "group": "legs_glutes",
+      "folder": "Legs-Glutes",
+      "video_path": "Legs-Glutes/Leg_Press_Calf_Raise.mp4",
+      "equipment": "leverage machine",
+      "body_part": "lower legs",
+      "primary_muscles": [
+        "calves"
+      ],
+      "secondary_muscles": [],
+      "difficulty": "beginner",
+      "force": "push",
+      "mechanic": "isolation",
+      "is_unilateral": false,
+      "tags": [
+        "calves",
+        "machine",
+        "leg press",
+        "calf raise"
+      ],
+      "instructions_en": "Sit on the 45-degree leg press machine with your hips and back anchored firmly against the seat. Place the balls of your feet along the bottom edge of the sled footplate, spaced shoulder-width apart, with your heels hanging completely unsupported off the edge. Press the sled out and maintain almost straight legs with a slight, locked micro-bend in the knees throughout. Allow the weight of the sled to slowly push your feet into deep dorsiflexion, lowering your heels toward your shins for a full calf stretch. Press forcefully into the balls of your feet to extend your ankles into full plantarflexion, pushing the sled forward with your calves. Squeeze hard at the peak, then lower slowly."
+    },
+    {
+      "id": 132,
+      "name": "Single-Leg Hip Thrust",
+      "group": "legs_glutes",
+      "folder": "Legs-Glutes",
+      "video_path": "Legs-Glutes/Single-Leg_Hip_Thrust.mp4",
+      "equipment": "body weight",
+      "body_part": "upper legs",
+      "primary_muscles": [
+        "glutes"
+      ],
+      "secondary_muscles": [
+        "hamstrings",
+        "core"
+      ],
+      "difficulty": "intermediate",
+      "force": "push",
+      "mechanic": "isolation",
+      "is_unilateral": true,
+      "tags": [
+        "hip thrust",
+        "glutes",
+        "unilateral",
+        "bodyweight"
+      ],
+      "instructions_en": "Sit on the floor with your upper back and shoulder blades resting across the edge of a flat gym bench. Plant your right foot firmly on the floor with knee bent at 90 degrees, and elevate your left knee in the air bent at 90 degrees. Rest your arms comfortably along the top of the bench. Drive forcefully down through your right heel, thrusting your hips upward until your right thigh, pelvis, and torso align horizontally in a tabletop position parallel to the floor. Squeeze your right glute intensely at the top for a full second while keeping your hips perfectly level. Lower your hips back down smoothly under control until hovering just above the floor before repeating."
+    },
+    {
+      "id": 133,
+      "name": "Kettlebell Front Squat",
+      "group": "legs_glutes",
+      "folder": "Legs-Glutes",
+      "video_path": "Legs-Glutes/Kettlebell_Front_Squat.mp4",
+      "equipment": "kettlebell",
+      "body_part": "upper legs",
+      "primary_muscles": [
+        "quadriceps",
+        "glutes"
+      ],
+      "secondary_muscles": [
+        "core",
+        "upper back",
+        "shoulders"
+      ],
+      "difficulty": "intermediate",
+      "force": "push",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "kettlebell",
+        "squat",
+        "front squat",
+        "quadriceps",
+        "core"
+      ],
+      "instructions_en": "Clean two kettlebells into the front rack position, resting the bells against the outside of your forearms with wrists straight, elbows tucked tight to your ribs, and handles held close together under your chin. Stand with feet shoulder-width apart, toes turned slightly out. Inhale and brace your core. Descend into a deep front squat, pushing your hips back and driving your knees outward while maintaining a proud, perfectly vertical chest. Lower until your hip crease dips below your knee level, pause briefly at the bottom, then drive through your heels and midfoot to return smoothly to the tall standing starting position."
+    },
+    {
+      "id": 134,
+      "name": "Frog Pump",
+      "group": "legs_glutes",
+      "folder": "Legs-Glutes",
+      "video_path": "Legs-Glutes/Frog_Pump.mp4",
+      "equipment": "body weight",
+      "body_part": "upper legs",
+      "primary_muscles": [
+        "glutes"
+      ],
+      "secondary_muscles": [
+        "adductors",
+        "core"
+      ],
+      "difficulty": "beginner",
+      "force": "push",
+      "mechanic": "isolation",
+      "is_unilateral": false,
+      "tags": [
+        "frog pump",
+        "glutes",
+        "bodyweight",
+        "glute bridge"
+      ],
+      "instructions_en": "Lie flat on your back on an exercise mat. Bring the soles of your feet firmly together in a butterfly position with knees flared wide open to the sides, drawing your heels close to your pelvis. Rest your elbows on the floor with forearms pointed up for leverage. Squeezing your glutes and pressing the outer edges of your feet together into the mat, bridge your hips upward toward the ceiling until your pelvis reaches full extension. Hold the peak glute squeeze for a full second, then lower your hips under control back down until they lightly touch the mat."
+    },
+    {
+      "id": 135,
+      "name": "Dumbbell Reverse Lunge",
+      "group": "legs_glutes",
+      "folder": "Legs-Glutes",
+      "video_path": "Legs-Glutes/Dumbbell_Reverse_Lunge.mp4",
+      "equipment": "dumbbell",
+      "body_part": "upper legs",
+      "primary_muscles": [
+        "quadriceps",
+        "glutes"
+      ],
+      "secondary_muscles": [
+        "hamstrings",
+        "calves"
+      ],
+      "difficulty": "intermediate",
+      "force": "push",
+      "mechanic": "compound",
+      "is_unilateral": true,
+      "tags": [
+        "dumbbell",
+        "reverse lunge",
+        "quadriceps",
+        "glutes",
+        "legs"
+      ],
+      "instructions_en": "Stand tall with feet hip-width apart holding a pair of dumbbells at your sides in a neutral grip with shoulders back and core engaged. Step your right foot backward roughly two feet, landing softly on the ball of your foot. Lower your hips vertically down until your front left thigh is parallel to the floor and your rear right knee hovers one to two inches above the ground, maintaining a tall, upright torso. Drive firmly through your front left heel and midfoot to push yourself back up, stepping your right foot forward to return to the starting standing position."
+    },
+    {
+      "id": 136,
+      "name": "Wall Sit",
+      "group": "legs_glutes",
+      "folder": "Legs-Glutes",
+      "video_path": "Legs-Glutes/Wall_Sit.mp4",
+      "equipment": "body weight",
+      "body_part": "upper legs",
+      "primary_muscles": [
+        "quadriceps"
+      ],
+      "secondary_muscles": [
+        "glutes",
+        "calves",
+        "hamstrings"
+      ],
+      "difficulty": "beginner",
+      "force": "static",
+      "mechanic": "isolation",
+      "is_unilateral": false,
+      "tags": [
+        "wall sit",
+        "isometric",
+        "quadriceps",
+        "bodyweight",
+        "endurance"
+      ],
+      "instructions_en": "Stand with your back flat against a wall, feet shoulder-width apart and roughly two feet out. Slide your back down the wall until your thighs are parallel to the floor with knees stacked directly above ankles at a 90-degree angle. Keep your entire back, head, and shoulders pressed against the wall, hands resting on hips or folded across the chest without pressing on your thighs. Hold the isometric position with core engaged before sliding back up to stand."
+    },
+    {
+      "id": 137,
+      "name": "Donkey Kick",
+      "group": "legs_glutes",
+      "folder": "Legs-Glutes",
+      "video_path": "Legs-Glutes/Donkey_Kick.mp4",
+      "equipment": "body weight",
+      "body_part": "upper legs",
+      "primary_muscles": [
+        "glutes"
+      ],
+      "secondary_muscles": [
+        "hamstrings",
+        "core"
+      ],
+      "difficulty": "beginner",
+      "force": "push",
+      "mechanic": "isolation",
+      "is_unilateral": true,
+      "tags": [
+        "donkey kick",
+        "glutes",
+        "bodyweight",
+        "mat"
+      ],
+      "instructions_en": "Start on all fours on a workout mat with hands directly under shoulders and knees directly under hips. Keeping your right knee bent at a 90-degree angle and foot flexed, drive your right heel upward toward the ceiling by contracting your glute. Raise the thigh until it aligns parallel with your torso, keeping hips square to the ground without arching your lower back. Squeeze the glute at the peak, then slowly lower the knee back to hover just beside the left knee before repeating."
+    },
+    {
+      "id": 138,
+      "name": "Fire Hydrant",
+      "group": "legs_glutes",
+      "folder": "Legs-Glutes",
+      "video_path": "Legs-Glutes/Fire_Hydrant.mp4",
+      "equipment": "body weight",
+      "body_part": "upper legs",
+      "primary_muscles": [
+        "glutes"
+      ],
+      "secondary_muscles": [
+        "abductors",
+        "core"
+      ],
+      "difficulty": "beginner",
+      "force": "pull",
+      "mechanic": "isolation",
+      "is_unilateral": true,
+      "tags": [
+        "fire hydrant",
+        "glutes",
+        "abductors",
+        "bodyweight"
+      ],
+      "instructions_en": "Position yourself on hands and knees with flat back and tight core. Keeping the right knee bent at 90 degrees and ankles relaxed, lift your right leg out to the side away from your body, hinging solely from the hip joint. Lift until your inner thigh is roughly parallel to the floor, ensuring your shoulders and pelvis stay level and facing downward. Hold the top contraction for half a second, then lower back smoothly under control to the start."
+    },
+    {
+      "id": 139,
+      "name": "Clamshell",
+      "group": "legs_glutes",
+      "folder": "Legs-Glutes",
+      "video_path": "Legs-Glutes/Clamshell.mp4",
+      "equipment": "body weight",
+      "body_part": "upper legs",
+      "primary_muscles": [
+        "glutes"
+      ],
+      "secondary_muscles": [
+        "abductors"
+      ],
+      "difficulty": "beginner",
+      "force": "pull",
+      "mechanic": "isolation",
+      "is_unilateral": true,
+      "tags": [
+        "clamshell",
+        "glutes",
+        "hip abductors",
+        "bodyweight",
+        "mat"
+      ],
+      "instructions_en": "Lie on your side with your head resting on your lower arm or hand. Stack your hips, knees, and feet directly on top of each other, bending your knees at roughly 90 degrees and hips at 45 degrees. Keeping your feet glued together, rotate your top knee upward as high as possible without rolling your top hip backward. Pause and squeeze the gluteus medius at the top of the range, then lower the knee back to touch the bottom leg."
+    },
+    {
+      "id": 140,
+      "name": "Single-Leg Glute Bridge",
+      "group": "legs_glutes",
+      "folder": "Legs-Glutes",
+      "video_path": "Legs-Glutes/Single-Leg_Glute_Bridge.mp4",
+      "equipment": "body weight",
+      "body_part": "upper legs",
+      "primary_muscles": [
+        "glutes"
+      ],
+      "secondary_muscles": [
+        "hamstrings",
+        "core"
+      ],
+      "difficulty": "beginner",
+      "force": "push",
+      "mechanic": "isolation",
+      "is_unilateral": true,
+      "tags": [
+        "glute bridge",
+        "unilateral",
+        "bodyweight",
+        "glutes"
+      ],
+      "instructions_en": "Lie flat on your back with arms by your sides and knees bent at 90 degrees, feet flat on the floor. Lift one leg off the floor, extending it straight out at a 45-degree angle or pointing straight up. Drive through the heel of the planted foot, raising your hips toward the ceiling until your knee, hip, and shoulder form a straight diagonal line. Squeeze the glute hard at the top while keeping both hip bones level, then slowly lower your hips back down until they just touch the mat."
+    },
+    {
+      "id": 141,
+      "name": "Glute Rainbows",
+      "group": "legs_glutes",
+      "folder": "Legs-Glutes",
+      "video_path": "Legs-Glutes/Glute_Rainbows.mp4",
+      "equipment": "body weight",
+      "body_part": "upper legs",
+      "primary_muscles": [
+        "glutes"
+      ],
+      "secondary_muscles": [
+        "hamstrings",
+        "core"
+      ],
+      "difficulty": "beginner",
+      "force": "push",
+      "mechanic": "isolation",
+      "is_unilateral": true,
+      "tags": [
+        "glute rainbows",
+        "rainbow kicks",
+        "glutes",
+        "bodyweight"
+      ],
+      "instructions_en": "Begin on all fours with hands under shoulders, knees under hips, and core braced. Extend your right leg straight out behind you, toe pointed and resting on the floor slightly to the left, crossing behind your left leg. Squeezing your right glute, lift the right leg up and across in a high, smooth arc toward the ceiling, then lower it to tap the floor wide out to the right. Immediately reverse the arcing path, lifting the leg high and sweeping it back across to tap on the left side, keeping hips level and torso stationary throughout."
+    },
+    {
+      "id": 142,
+      "name": "Prisoner Good Morning",
+      "group": "legs_glutes",
+      "folder": "Legs-Glutes",
+      "video_path": "Legs-Glutes/Prisoner_Good_Morning.mp4",
+      "equipment": "body weight",
+      "body_part": "upper legs",
+      "primary_muscles": [
+        "hamstrings",
+        "glutes"
+      ],
+      "secondary_muscles": [
+        "lower back",
+        "erector spinae",
+        "core"
+      ],
+      "difficulty": "beginner",
+      "force": "pull",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "prisoner good morning",
+        "bodyweight",
+        "hamstrings",
+        "glutes",
+        "mobility"
+      ],
+      "instructions_en": "Stand tall with feet shoulder-width apart and place your fingertips lightly behind your head with elbows flared wide in a prisoner stance. With a soft bend in your knees, hinge backward at your hips, sending your glutes toward the wall behind you while maintaining a flat, neutral spine and proud chest. Continue hinging forward until your torso is nearly parallel to the floor, feeling an active stretch in your hamstrings. Squeeze your glutes and drive your hips forward to return to the tall standing starting position.\n\n\n=== Back ==="
+    },
+    {
+      "id": 143,
+      "name": "Inverted Row",
+      "group": "back",
+      "folder": "Back",
+      "video_path": "Back/Inverted_Row.mp4",
+      "equipment": "body weight",
+      "body_part": "back",
+      "primary_muscles": [
+        "lats",
+        "rhomboids"
+      ],
+      "secondary_muscles": [
+        "biceps",
+        "rear delts",
+        "core"
+      ],
+      "difficulty": "intermediate",
+      "force": "pull",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "inverted row",
+        "bodyweight",
+        "back",
+        "lats"
+      ],
+      "instructions_en": "Set a barbell securely in a rack or Smith machine at roughly waist height. Lie underneath the bar, reach up, and grasp it with an overhand pronated grip spaced slightly wider than shoulder-width. Extend your legs straight out with your heels planted on the floor, forming a rigid, continuous straight line from your ankles through your hips to your shoulders with core and glutes engaged. Begin with arms fully extended in a dead hang. Initiate the row by pulling your shoulder blades back and down, driving your elbows toward the floor to pull your chest up until it touches the barbell. Squeeze your upper back, lats, and rhomboids intensely at the top, then lower yourself smoothly under control back to the fully extended starting hang."
+    },
+    {
+      "id": 144,
+      "name": "Neutral-Grip Pull-Up",
+      "group": "back",
+      "folder": "Back",
+      "video_path": "Back/Neutral-Grip_Pull-Up.mp4",
+      "equipment": "body weight",
+      "body_part": "back",
+      "primary_muscles": [
+        "lats",
+        "biceps"
+      ],
+      "secondary_muscles": [
+        "rhomboids",
+        "forearms",
+        "rear delts"
+      ],
+      "difficulty": "intermediate",
+      "force": "pull",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "pull-up",
+        "neutral grip",
+        "back",
+        "biceps",
+        "bodyweight"
+      ],
+      "instructions_en": "Grasp the parallel handles of a pull-up station with palms facing each other in a neutral grip, spaced shoulder-width apart. Begin in a full dead hang with arms completely extended and legs straight or knees slightly bent with ankles crossed. Engage your core, retract your shoulder blades, and pull yourself vertically upward by driving your elbows straight down toward your ribs. Continue pulling until your chin easily clears the height of the handles and your chest reaches handle level. Hold the peak contraction for a split-second, then lower your body under control back down to the full dead hang starting position."
+    },
+    {
+      "id": 145,
+      "name": "Muscle-Up",
+      "group": "back",
+      "folder": "Back",
+      "video_path": "Back/Muscle-Up.mp4",
+      "equipment": "body weight",
+      "body_part": "back",
+      "primary_muscles": [
+        "lats",
+        "chest",
+        "triceps"
+      ],
+      "secondary_muscles": [
+        "biceps",
+        "shoulders",
+        "core"
+      ],
+      "difficulty": "advanced",
+      "force": "pull",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "muscle-up",
+        "calisthenics",
+        "back",
+        "explosive",
+        "advanced"
+      ],
+      "instructions_en": "Hang from a high pull-up bar with a false or firm overhand grip, body completely straight. Initiate an explosive vertical pull, driving your elbows down and pulling your upper torso toward the bar with maximum power. As your chest approaches the height of the bar, rapidly lean your chest forward and roll your wrists over the top of the bar, transitioning smoothly into the bottom of a straight-bar dip. Press your palms forcefully downward against the bar to extend your arms, locking your elbows out fully above the bar with body upright. Lower yourself back through the dip, transition smoothly beneath the bar, and return under control to the starting dead hang."
+    },
+    {
+      "id": 146,
+      "name": "Pendlay Row",
+      "group": "back",
+      "folder": "Back",
+      "video_path": "Back/Pendlay_Row.mp4",
+      "equipment": "barbell",
+      "body_part": "back",
+      "primary_muscles": [
+        "lats",
+        "rhomboids",
+        "middle back"
+      ],
+      "secondary_muscles": [
+        "biceps",
+        "lower back",
+        "rear delts"
+      ],
+      "difficulty": "intermediate",
+      "force": "pull",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "pendlay row",
+        "barbell",
+        "back",
+        "strength",
+        "power"
+      ],
+      "instructions_en": "Position a loaded barbell on the floor in front of you. Stand with feet hip-width apart and hinge deeply at the hips until your torso is strictly parallel to the floor, maintaining a flat back and soft knees. Grasp the barbell with an overhand pronated grip spaced slightly wider than shoulder-width. Take a deep breath, brace your core, and explosively pull the bar straight off the floor to touch your lower chest/upper abdomen, driving your elbows toward the ceiling while keeping your torso completely stationary. Lower the barbell with control until it rests completely dead on the floor to break all momentum before initiating the next repetition."
+    },
+    {
+      "id": 147,
+      "name": "One-Arm Landmine Row",
+      "group": "back",
+      "folder": "Back",
+      "video_path": "Back/One-Arm_Landmine_Row.mp4",
+      "equipment": "barbell",
+      "body_part": "back",
+      "primary_muscles": [
+        "lats",
+        "middle back"
+      ],
+      "secondary_muscles": [
+        "biceps",
+        "rhomboids",
+        "core"
+      ],
+      "difficulty": "intermediate",
+      "force": "pull",
+      "mechanic": "compound",
+      "is_unilateral": true,
+      "tags": [
+        "landmine",
+        "row",
+        "back",
+        "unilateral",
+        "barbell"
+      ],
+      "instructions_en": "Position yourself standing perpendicular to the weighted end of a landmine barbell. Assume a stable staggered stance with the leg opposite your working arm forward, hinging at your hips to maintain a flat 45-degree back. Grasp the barbell sleeve just below the collar with your inside hand using a firm overhand or neutral grip. Brace your core and pull the barbell upward toward your hip, driving your elbow back close to your torso and squeezing your lat at the top without rotating your shoulders or twisting your spine. Lower the barbell smoothly back down to full arm extension under control."
+    },
+    {
+      "id": 148,
+      "name": "Renegade Row",
+      "group": "back",
+      "folder": "Back",
+      "video_path": "Back/Renegade_Row.mp4",
+      "equipment": "dumbbell",
+      "body_part": "back",
+      "primary_muscles": [
+        "lats",
+        "core"
+      ],
+      "secondary_muscles": [
+        "rhomboids",
+        "biceps",
+        "chest",
+        "shoulders"
+      ],
+      "difficulty": "advanced",
+      "force": "pull",
+      "mechanic": "compound",
+      "is_unilateral": true,
+      "tags": [
+        "renegade row",
+        "dumbbell",
+        "back",
+        "core",
+        "plank"
+      ],
+      "instructions_en": "Assume a solid high plank position holding onto the handles of two hex dumbbells resting flat on the floor directly beneath your shoulders, with feet set slightly wider than shoulder-width apart to form a stable base. Brace your core, squeeze your glutes, and stabilize your hips. Press firmly through the left dumbbell and row the right dumbbell up toward your right hip, driving the right elbow toward the ceiling while keeping your hips and shoulders perfectly square to the floor. Lower the right dumbbell softly to the floor, stabilize, and repeat with the left dumbbell, maintaining a rock-solid plank throughout."
+    },
+    {
+      "id": 149,
+      "name": "Cable Pullover",
+      "group": "back",
+      "folder": "Back",
+      "video_path": "Back/Cable_Pullover.mp4",
+      "equipment": "cable",
+      "body_part": "back",
+      "primary_muscles": [
+        "lats"
+      ],
+      "secondary_muscles": [
+        "chest",
+        "triceps",
+        "teres major"
+      ],
+      "difficulty": "intermediate",
+      "force": "pull",
+      "mechanic": "isolation",
+      "is_unilateral": false,
+      "tags": [
+        "cable",
+        "pullover",
+        "lats",
+        "isolation"
+      ],
+      "instructions_en": "Stand facing a high cable pulley with a straight-bar or rope attachment. Grasp the attachment with an overhand grip spaced shoulder-width apart. Take a step back, bend your knees slightly, and hinge forward at your hips about 30 degrees with a flat back, arms extended overhead with a slight soft micro-bend in the elbows. Keeping your arms rigid at that slight bend, pull the bar down in a wide arcing sweep toward your thighs, using pure lat contraction. Pull until the bar touches your thighs, squeeze your lats hard for a moment, then allow the cable to slowly pull your arms back up along the same wide arc to the overhead stretch position."
+    },
+    {
+      "id": 150,
+      "name": "Cable High Row",
+      "group": "back",
+      "folder": "Back",
+      "video_path": "Back/Cable_High_Row.mp4",
+      "equipment": "cable",
+      "body_part": "back",
+      "primary_muscles": [
+        "rhomboids",
+        "upper back",
+        "rear delts"
+      ],
+      "secondary_muscles": [
+        "lats",
+        "biceps",
+        "traps"
+      ],
+      "difficulty": "intermediate",
+      "force": "pull",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "cable",
+        "high row",
+        "upper back",
+        "rhomboids"
+      ],
+      "instructions_en": "Set the pulleys of a cable machine to high head height with dual handles or attach a wide bar to a high cable stack. Grasp the handles with an overhand grip and take a step back with knees slightly bent and core braced. With chest proud, pull the handles down and back toward your collarbones and upper chest, flaring your elbows wide out to the sides at roughly 70 to 80 degrees from your torso. Squeeze your rear deltoids, rhomboids, and middle trapezius firmly at peak contraction, then slowly return your arms forward under control to the full stretch."
+    },
+    {
+      "id": 151,
+      "name": "Superman",
+      "group": "back",
+      "folder": "Back",
+      "video_path": "Back/Superman.mp4",
+      "equipment": "body weight",
+      "body_part": "back",
+      "primary_muscles": [
+        "lower back",
+        "erector spinae"
+      ],
+      "secondary_muscles": [
+        "glutes",
+        "hamstrings",
+        "rhomboids"
+      ],
+      "difficulty": "beginner",
+      "force": "pull",
+      "mechanic": "isolation",
+      "is_unilateral": false,
+      "tags": [
+        "superman",
+        "lower back",
+        "bodyweight",
+        "posterior chain"
+      ],
+      "instructions_en": "Lie prone on your stomach on an exercise mat with legs straight and arms extended fully forward overhead, palms facing downward. Simultaneously engage your glutes, hamstrings, and lower back to lift your arms, chest, and thighs several inches off the floor. Keep your neck in a neutral alignment looking down toward the mat. Hold the lifted arch position for a 2-second isometric contraction, then gently lower your limbs and chest back to the starting prone position."
+    },
+    {
+      "id": 152,
+      "name": "Prone Y-T-W Raises",
+      "group": "back",
+      "folder": "Back",
+      "video_path": "Back/Prone_Y-T-W_Raises.mp4",
+      "equipment": "body weight",
+      "body_part": "back",
+      "primary_muscles": [
+        "traps",
+        "rhomboids",
+        "rear delts"
+      ],
+      "secondary_muscles": [
+        "lower back",
+        "rotator cuff"
+      ],
+      "difficulty": "beginner",
+      "force": "pull",
+      "mechanic": "isolation",
+      "is_unilateral": false,
+      "tags": [
+        "y-t-w",
+        "posture",
+        "upper back",
+        "scapular",
+        "bodyweight"
+      ],
+      "instructions_en": "Lie face down on a mat with your forehead resting lightly down to keep the neck neutral. Extend your arms overhead at a 45-degree angle in a Y-shape with thumbs pointed toward the ceiling. Squeeze your shoulder blades together to lift your arms and upper chest off the floor, holding for a second before lowering. Next, bring arms directly out to the sides into a T-shape, lifting thumbs up. Finally, bend your elbows into your ribs forming a W-shape, retracting the scaps hard before lowering back to the mat.\n\n\n=== Core ==="
+    },
+    {
+      "id": 153,
+      "name": "Dumbbell Side Bend",
+      "group": "core",
+      "folder": "Core",
+      "video_path": "Core/Dumbbell_Side_Bend.mp4",
+      "equipment": "dumbbell",
+      "body_part": "waist",
+      "primary_muscles": [
+        "obliques"
+      ],
+      "secondary_muscles": [
+        "abdominals",
+        "lower back"
+      ],
+      "difficulty": "beginner",
+      "force": "pull",
+      "mechanic": "isolation",
+      "is_unilateral": true,
+      "tags": [
+        "dumbbell",
+        "obliques",
+        "side bend",
+        "waist"
+      ],
+      "instructions_en": "Stand tall with feet hip-width apart holding a dumbbell in your right hand at your side with palm facing inward, placing your left hand lightly behind your head or resting on your left hip. Keep your shoulders back, chest proud, and hips squared forward. Slowly bend your torso laterally to the right side, lowering the dumbbell down along the outside of your right leg toward your knee while keeping your hips stationary. Once you feel a deep stretch along your left obliques, forcefully contract your left obliques to pull your torso back upright to the vertical center, continuing slightly past center for a full contraction, then lower under control."
+    },
+    {
+      "id": 154,
+      "name": "Cable Woodchopper",
+      "group": "core",
+      "folder": "Core",
+      "video_path": "Core/Cable_Woodchopper.mp4",
+      "equipment": "cable",
+      "body_part": "waist",
+      "primary_muscles": [
+        "obliques"
+      ],
+      "secondary_muscles": [
+        "abdominals",
+        "shoulders"
+      ],
+      "difficulty": "intermediate",
+      "force": "pull",
+      "mechanic": "compound",
+      "is_unilateral": true,
+      "tags": [
+        "cable",
+        "woodchopper",
+        "obliques",
+        "rotational"
+      ],
+      "instructions_en": "Set the cable pulley to its highest position with a single D-handle attached. Stand sideways to the cable stack, about an arm's length away, with feet slightly wider than shoulder-width apart. Grasp the handle with both hands, extending your arms diagonally up toward the pulley with a soft elbow bend. Rotate your torso and pull the cable diagonally downward across your body toward your opposite outside knee, pivoting on your rear foot and engaging your obliques. Pause at the bottom of the chop with core braced, then slowly control the resistance back along the diagonal trajectory to the starting high position."
+    },
+    {
+      "id": 155,
+      "name": "Cable Seated Twist",
+      "group": "core",
+      "folder": "Core",
+      "video_path": "Core/Cable_Seated_Twist.mp4",
+      "equipment": "cable",
+      "body_part": "waist",
+      "primary_muscles": [
+        "obliques"
+      ],
+      "secondary_muscles": [
+        "abdominals",
+        "core"
+      ],
+      "difficulty": "intermediate",
+      "force": "pull",
+      "mechanic": "isolation",
+      "is_unilateral": false,
+      "tags": [
+        "cable",
+        "seated twist",
+        "obliques",
+        "rotation"
+      ],
+      "instructions_en": "Place a flat gym bench perpendicular to a cable pulley adjusted to chest height with a single D-handle. Sit tall on the bench with feet planted flat for stability. Grasp the handle with both hands and extend your arms straight out in front of your chest. Maintaining an upright spine and keeping your arms aligned with your sternum, engage your obliques to rotate your upper torso 90 degrees away from the cable stack in a smooth horizontal arc. Hold the peak rotational contraction for a moment, then slowly resist the cable tension to return to the starting position facing forward."
+    },
+    {
+      "id": 156,
+      "name": "Pallof Press",
+      "group": "core",
+      "folder": "Core",
+      "video_path": "Core/Pallof_Press.mp4",
+      "equipment": "cable",
+      "body_part": "waist",
+      "primary_muscles": [
+        "abdominals",
+        "obliques"
+      ],
+      "secondary_muscles": [
+        "shoulders",
+        "glutes"
+      ],
+      "difficulty": "intermediate",
+      "force": "static",
+      "mechanic": "isolation",
+      "is_unilateral": true,
+      "tags": [
+        "pallof press",
+        "cable",
+        "anti-rotation",
+        "core",
+        "isometric"
+      ],
+      "instructions_en": "Attach a single D-handle to a cable pulley adjusted to chest height. Stand perpendicular to the cable machine with feet shoulder-width apart in an athletic stance with soft knees. Hold the handle with both hands pressed against the center of your chest, taking a couple of steps away to create cable tension. Brace your core and glutes. Press both hands straight out in front of your chest until your arms are fully extended, resisting the rotational force trying to pull your torso toward the machine. Hold the full lockout for a two-second pause, then draw your hands slowly back to your sternum."
+    },
+    {
+      "id": 157,
+      "name": "Machine Crunch",
+      "group": "core",
+      "folder": "Core",
+      "video_path": "Core/Machine_Crunch.mp4",
+      "equipment": "leverage machine",
+      "body_part": "waist",
+      "primary_muscles": [
+        "abdominals"
+      ],
+      "secondary_muscles": [
+        "obliques"
+      ],
+      "difficulty": "beginner",
+      "force": "push",
+      "mechanic": "isolation",
+      "is_unilateral": false,
+      "tags": [
+        "machine crunch",
+        "abdominals",
+        "machine",
+        "core"
+      ],
+      "instructions_en": "Sit in an abdominal crunch machine, adjusting the seat height so the machine's axis of rotation aligns with your lower ribs/lumbar spine. Hook your shins or feet comfortably under the lower ankle pads and grasp the overhead handles beside your head, resting your upper chest against the padded roller. Inhale, then exhale as you contract your abdominals to curl your upper body forward and downward, rounding your spine and bringing your ribcage toward your pelvis against the machine resistance. Squeeze your abs hard at maximum flexion, then slowly return to the upright starting position."
+    },
+    {
+      "id": 158,
+      "name": "Kettlebell Windmill",
+      "group": "core",
+      "folder": "Core",
+      "video_path": "Core/Kettlebell_Windmill.mp4",
+      "equipment": "kettlebell",
+      "body_part": "waist",
+      "primary_muscles": [
+        "obliques",
+        "hamstrings"
+      ],
+      "secondary_muscles": [
+        "shoulders",
+        "glutes",
+        "lower back"
+      ],
+      "difficulty": "advanced",
+      "force": "pull",
+      "mechanic": "compound",
+      "is_unilateral": true,
+      "tags": [
+        "kettlebell",
+        "windmill",
+        "obliques",
+        "mobility",
+        "shoulder stability"
+      ],
+      "instructions_en": "Stand with feet positioned wider than shoulder-width apart, turning both feet 45 degrees to the left. Clean and press a kettlebell overhead with your right arm, locking your elbow with wrist straight and gazing up at the bell. Keeping your right arm locked vertically throughout, hinge your hips backward and to the right while sliding your left hand down along the inside of your left leg toward the floor. Descend until your left fingertips touch the floor or your ankle with torso rotated open, pause, then drive through your hips to return upright to the tall standing position."
+    },
+    {
+      "id": 159,
+      "name": "Cross-Body Crunch",
+      "group": "core",
+      "folder": "Core",
+      "video_path": "Core/Cross-Body_Crunch.mp4",
+      "equipment": "body weight",
+      "body_part": "waist",
+      "primary_muscles": [
+        "obliques",
+        "abdominals"
+      ],
+      "secondary_muscles": [
+        "hip flexors"
+      ],
+      "difficulty": "beginner",
+      "force": "pull",
+      "mechanic": "isolation",
+      "is_unilateral": false,
+      "tags": [
+        "crunch",
+        "cross-body",
+        "obliques",
+        "bodyweight"
+      ],
+      "instructions_en": "Lie flat on your back on a mat with knees bent and feet flat on the floor. Place your fingertips lightly behind your head with elbows flared wide. Inhale, then exhale as you contract your abdominals, lifting your right shoulder blade off the floor and rotating your torso diagonally to drive your right elbow toward your left knee as your left knee simultaneously pulls inward toward your chest. Squeeze your obliques firmly as the elbow and knee approach each other, then lower your shoulder and foot smoothly back down to the mat before repeating on the opposite side."
+    },
+    {
+      "id": 160,
+      "name": "Jackknife Sit-Up",
+      "group": "core",
+      "folder": "Core",
+      "video_path": "Core/Jackknife_Sit-Up.mp4",
+      "equipment": "body weight",
+      "body_part": "waist",
+      "primary_muscles": [
+        "abdominals"
+      ],
+      "secondary_muscles": [
+        "hip flexors",
+        "obliques"
+      ],
+      "difficulty": "intermediate",
+      "force": "pull",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "jackknife",
+        "abdominals",
+        "bodyweight",
+        "v-up"
+      ],
+      "instructions_en": "Lie completely flat on your back on an exercise mat with legs straight, ankles together, and arms extended overhead on the floor. Inhale, brace your core, and simultaneously lift your straight legs and upper torso off the floor in a synchronized explosive motion, pivoting on your sit bones to create a sharp V-shape with your body. Reach your hands forward toward your toes or shins at the peak of the movement, pausing for a split-second balance on your glutes, then slowly lower your torso and straight legs back down under strict control to hover just above the mat."
+    },
+    {
+      "id": 161,
+      "name": "Alternate Heel Touches",
+      "group": "core",
+      "folder": "Core",
+      "video_path": "Core/Alternate_Heel_Touches.mp4",
+      "equipment": "body weight",
+      "body_part": "waist",
+      "primary_muscles": [
+        "obliques"
+      ],
+      "secondary_muscles": [
+        "abdominals"
+      ],
+      "difficulty": "beginner",
+      "force": "pull",
+      "mechanic": "isolation",
+      "is_unilateral": false,
+      "tags": [
+        "heel touches",
+        "obliques",
+        "bodyweight",
+        "core"
+      ],
+      "instructions_en": "Lie supine on a mat with knees bent and feet flat on the floor hip-width apart, placed a few inches from your glutes. Curl your head, neck, and shoulder blades slightly off the floor into a constant isometric crunch with arms extended straight along your sides, palms facing inward. Contract your right oblique to laterally bend your torso to the right, sliding your right fingertips to touch your right heel. Fluidly reverse direction, sliding back through center to contract your left oblique and touch your left heel with your left fingertips, maintaining steady breathing and continuous core tension."
+    },
+    {
+      "id": 162,
+      "name": "Captain's Chair Leg Raise",
+      "group": "core",
+      "folder": "Core",
+      "video_path": "Core/Captains_Chair_Leg_Raise.mp4",
+      "equipment": "body weight",
+      "body_part": "waist",
+      "primary_muscles": [
+        "abdominals",
+        "hip flexors"
+      ],
+      "secondary_muscles": [
+        "obliques"
+      ],
+      "difficulty": "intermediate",
+      "force": "pull",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "captains chair",
+        "leg raise",
+        "abdominals",
+        "core"
+      ],
+      "instructions_en": "Step into a captain's chair station, resting your forearms flat on the padded arm supports and gripping the handles firmly. Press your back flat against the lumbar support pad and let your legs hang straight down with ankles together. Inhale and brace your core. Keeping your legs straight (or with a slight micro-bend) and toes pointed, contract your lower abdominals to lift your legs straight up in front of you until they are parallel to the floor at a 90-degree angle. Pause at the top of the raise without swinging or using momentum, then lower your legs slowly back down to the starting vertical hang."
+    },
+    {
+      "id": 163,
+      "name": "Cocoon Crunch",
+      "group": "core",
+      "folder": "Core",
+      "video_path": "Core/Cocoon_Crunch.mp4",
+      "equipment": "body weight",
+      "body_part": "waist",
+      "primary_muscles": [
+        "abdominals"
+      ],
+      "secondary_muscles": [
+        "hip flexors",
+        "obliques"
+      ],
+      "difficulty": "intermediate",
+      "force": "pull",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "cocoon crunch",
+        "abdominals",
+        "bodyweight",
+        "core"
+      ],
+      "instructions_en": "Lie flat on your back on an exercise mat with legs extended straight out and arms stretched overhead. Inhale and brace your abdominals. In a simultaneous movement, lift your shoulder blades and straight legs off the floor, curling your torso upward while pulling your knees into your chest and wrapping your arms around your shins, collapsing into a tight, compact cocoon ball. Squeeze your abdominals at peak contraction for a brief pause, then slowly release and extend your legs and arms back out straight until they hover an inch above the mat."
+    },
+    {
+      "id": 164,
+      "name": "Decline Sit-Up",
+      "group": "core",
+      "folder": "Core",
+      "video_path": "Core/Decline_Sit-Up.mp4",
+      "equipment": "body weight",
+      "body_part": "waist",
+      "primary_muscles": [
+        "abdominals"
+      ],
+      "secondary_muscles": [
+        "hip flexors"
+      ],
+      "difficulty": "intermediate",
+      "force": "pull",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "decline sit-up",
+        "abdominals",
+        "bench",
+        "core"
+      ],
+      "instructions_en": "Secure your feet and ankles snugly beneath the padded rollers at the top of a decline abdominal bench, sitting with your torso upright. Cross your arms over your chest or place your hands lightly beside your ears. Inhale and slowly lower your torso backward down the decline bench, unrolling your spine under control until your back lightly touches the pad. Exhale and contract your abdominals, curling your torso upward through a complete range of motion until your body reaches a fully upright seated angle perpendicular to the bench. Squeeze your abs at the top, then lower slowly back down."
+    },
+    {
+      "id": 165,
+      "name": "Forearm Plank Pike",
+      "group": "core",
+      "folder": "Core",
+      "video_path": "Core/Forearm_Plank_Pike.mp4",
+      "equipment": "body weight",
+      "body_part": "waist",
+      "primary_muscles": [
+        "abdominals"
+      ],
+      "secondary_muscles": [
+        "shoulders",
+        "hamstrings",
+        "calves"
+      ],
+      "difficulty": "intermediate",
+      "force": "pull",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "plank pike",
+        "abdominals",
+        "bodyweight",
+        "core"
+      ],
+      "instructions_en": "Assume a standard forearm plank position with elbows directly under shoulders, forearms flat on the mat, and body in a rigid straight line from head to heels. Brace your core. Engaging your lower abdominals and hip flexors, lift your hips straight up toward the ceiling, rolling onto the tips of your toes to pull your pelvis upward into an inverted V-shape pike position. Keep your legs straight and forearms anchored firmly into the mat. Pause at peak hip elevation, then slowly lower your hips back down in a controlled line until you return to the flat forearm plank starting position."
+    },
+    {
+      "id": 166,
+      "name": "Flutter Kicks",
+      "group": "core",
+      "folder": "Core",
+      "video_path": "Core/Flutter_Kicks.mp4",
+      "equipment": "body weight",
+      "body_part": "waist",
+      "primary_muscles": [
+        "abdominals",
+        "hip flexors"
+      ],
+      "secondary_muscles": [
+        "quadriceps"
+      ],
+      "difficulty": "beginner",
+      "force": "pull",
+      "mechanic": "isolation",
+      "is_unilateral": false,
+      "tags": [
+        "flutter kicks",
+        "lower abs",
+        "bodyweight",
+        "core"
+      ],
+      "instructions_en": "Lie flat on your back on a mat with legs fully extended and arms along your sides (or hands slightly under hips for lumbar support). Press your lower back firmly into the floor and brace your core. Lift both legs about 6 inches off the ground. Keeping legs straight with toes pointed, alternate kicking each leg up and down a few inches in a rapid, controlled flutter motion without letting heels touch the floor, maintaining steady breathing."
+    },
+    {
+      "id": 167,
+      "name": "Scissor Kicks",
+      "group": "core",
+      "folder": "Core",
+      "video_path": "Core/Scissor_Kicks.mp4",
+      "equipment": "body weight",
+      "body_part": "waist",
+      "primary_muscles": [
+        "abdominals",
+        "adductors"
+      ],
+      "secondary_muscles": [
+        "hip flexors",
+        "obliques"
+      ],
+      "difficulty": "beginner",
+      "force": "pull",
+      "mechanic": "isolation",
+      "is_unilateral": false,
+      "tags": [
+        "scissor kicks",
+        "abdominals",
+        "bodyweight",
+        "core"
+      ],
+      "instructions_en": "Lie on your back with arms extended by your sides and lower back pressed into the mat. Raise your legs roughly 6 to 10 inches off the floor with knees straight. Spread your legs apart a couple of feet, then bring them back together, crossing your right ankle over your left ankle. Immediately open them wide again and bring them together, crossing the left ankle over the right. Continue this rhythmic horizontal criss-cross pattern smoothly while keeping your abs braced."
+    },
+    {
+      "id": 168,
+      "name": "Hollow Body Hold",
+      "group": "core",
+      "folder": "Core",
+      "video_path": "Core/Hollow_Body_Hold.mp4",
+      "equipment": "body weight",
+      "body_part": "waist",
+      "primary_muscles": [
+        "abdominals"
+      ],
+      "secondary_muscles": [
+        "hip flexors",
+        "quadriceps",
+        "obliques"
+      ],
+      "difficulty": "intermediate",
+      "force": "static",
+      "mechanic": "isolation",
+      "is_unilateral": false,
+      "tags": [
+        "hollow body",
+        "isometric",
+        "gymnastics",
+        "core",
+        "bodyweight"
+      ],
+      "instructions_en": "Lie flat on your back with legs straight, toes pointed, and arms extended overhead alongside your ears. Press your lower back completely flat against the mat by engaging your abdominals and tilting your pelvis posteriorly. Simultaneously lift your shoulder blades, head, and straight legs 4 to 6 inches off the floor, creating a continuous curved, boat-like shape with your body. Hold this tension solidly with arms and legs locked out before gently releasing down."
+    },
+    {
+      "id": 169,
+      "name": "Plank Shoulder Taps",
+      "group": "core",
+      "folder": "Core",
+      "video_path": "Core/Plank_Shoulder_Taps.mp4",
+      "equipment": "body weight",
+      "body_part": "waist",
+      "primary_muscles": [
+        "abdominals",
+        "obliques"
+      ],
+      "secondary_muscles": [
+        "shoulders",
+        "chest"
+      ],
+      "difficulty": "intermediate",
+      "force": "static",
+      "mechanic": "compound",
+      "is_unilateral": true,
+      "tags": [
+        "plank taps",
+        "anti-rotational",
+        "core",
+        "bodyweight"
+      ],
+      "instructions_en": "Start in a strong high plank with hands directly beneath your shoulders and feet slightly wider than hip-width apart to establish a stable base. Brace your core and squeeze your glutes. Lift your right hand off the mat and tap your left shoulder, keeping your hips and torso completely square to the floor without rocking side-to-side. Place the right hand back down, then lift the left hand to tap the right shoulder before returning to the balanced plank."
+    },
+    {
+      "id": 170,
+      "name": "Side Plank Hip Dips",
+      "group": "core",
+      "folder": "Core",
+      "video_path": "Core/Side_Plank_Hip_Dips.mp4",
+      "equipment": "body weight",
+      "body_part": "waist",
+      "primary_muscles": [
+        "obliques"
+      ],
+      "secondary_muscles": [
+        "abdominals",
+        "shoulders",
+        "glutes"
+      ],
+      "difficulty": "intermediate",
+      "force": "pull",
+      "mechanic": "isolation",
+      "is_unilateral": true,
+      "tags": [
+        "side plank",
+        "hip dips",
+        "obliques",
+        "bodyweight"
+      ],
+      "instructions_en": "Set up in a side plank on your right elbow, with forearm flat, elbow directly under shoulder, and feet stacked or staggered. Form a straight diagonal line from head to heels with left hand on your hip. Slowly lower your right hip toward the floor until it hovers an inch above the mat. Forcefully contract your right oblique and transverse abdominis to lift your hips back up, slightly higher than the starting line for a deep peak contraction, then lower again under control."
+    },
+    {
+      "id": 171,
+      "name": "Commando Plank",
+      "group": "core",
+      "folder": "Core",
+      "video_path": "Core/Commando_Plank.mp4",
+      "equipment": "body weight",
+      "body_part": "waist",
+      "primary_muscles": [
+        "abdominals",
+        "core"
+      ],
+      "secondary_muscles": [
+        "shoulders",
+        "triceps",
+        "chest"
+      ],
+      "difficulty": "intermediate",
+      "force": "push",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "commando plank",
+        "up-down plank",
+        "core",
+        "bodyweight"
+      ],
+      "instructions_en": "Begin in a forearm plank with elbows directly under shoulders, core braced, and feet hip-width apart. Place your right hand flat on the floor where your right elbow was and press up, followed immediately by placing your left hand under the left shoulder to press into a full high plank. Reverse the movement by lowering your right elbow back to the floor, followed by the left elbow, returning to the forearm plank with minimal hip rotation."
+    },
+    {
+      "id": 172,
+      "name": "Spiderman Plank",
+      "group": "core",
+      "folder": "Core",
+      "video_path": "Core/Spiderman_Plank.mp4",
+      "equipment": "body weight",
+      "body_part": "waist",
+      "primary_muscles": [
+        "obliques",
+        "abdominals"
+      ],
+      "secondary_muscles": [
+        "hip flexors",
+        "shoulders"
+      ],
+      "difficulty": "intermediate",
+      "force": "pull",
+      "mechanic": "compound",
+      "is_unilateral": true,
+      "tags": [
+        "spiderman plank",
+        "obliques",
+        "bodyweight",
+        "core"
+      ],
+      "instructions_en": "Start in a standard high plank or forearm plank position with body in a straight line. Lift your right foot off the floor and drive your right knee outward to the side and forward toward your right elbow, engaging your right oblique. Hold for a brief pause at the closest point of flexion, then extend the right leg back to the plank position. Repeat the movement on the left side, driving the left knee outward toward the left elbow before returning to start."
+    },
+    {
+      "id": 173,
+      "name": "Reverse Plank",
+      "group": "core",
+      "folder": "Core",
+      "video_path": "Core/Reverse_Plank.mp4",
+      "equipment": "body weight",
+      "body_part": "waist",
+      "primary_muscles": [
+        "abdominals",
+        "lower back"
+      ],
+      "secondary_muscles": [
+        "glutes",
+        "hamstrings",
+        "shoulders"
+      ],
+      "difficulty": "intermediate",
+      "force": "static",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "reverse plank",
+        "isometric",
+        "posterior chain",
+        "core"
+      ],
+      "instructions_en": "Sit on a mat with your legs extended straight in front of you and hands placed on the floor behind your hips, fingers pointing toward your feet. Press firmly through your palms and heels to lift your hips toward the ceiling. Raise until your body forms a straight line from heels to shoulders, opening the chest and squeezing the glutes and hamstrings. Keep your neck neutral and gaze slightly upward. Hold the isometric peak contraction firmly before gently lowering your hips back down to touch the mat."
+    },
+    {
+      "id": 174,
+      "name": "Bear Plank Hold",
+      "group": "core",
+      "folder": "Core",
+      "video_path": "Core/Bear_Plank_Hold.mp4",
+      "equipment": "body weight",
+      "body_part": "waist",
+      "primary_muscles": [
+        "abdominals",
+        "quadriceps"
+      ],
+      "secondary_muscles": [
+        "shoulders",
+        "serratus anterior"
+      ],
+      "difficulty": "intermediate",
+      "force": "static",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "bear plank",
+        "quadruped",
+        "isometric",
+        "core",
+        "bodyweight"
+      ],
+      "instructions_en": "Start on all fours with wrists stacked directly beneath shoulders and knees stacked directly beneath hips. Tuck your toes under, brace your abdominals, and press firmly through your palms to push the floor away. Lift both knees 1 to 2 inches off the mat so you are hovering on your hands and the balls of your feet. Maintain a flat, neutral back like a tabletop, with head and neck aligned. Hold this intense isometric core and quad contraction steadily before softly lowering your knees back to touch the mat.\n\n\n=== Conditioning ==="
+    },
+    {
+      "id": 175,
+      "name": "Barbell Thruster",
+      "group": "conditioning",
+      "folder": "Conditioning",
+      "video_path": "Conditioning/Barbell_Thruster.mp4",
+      "equipment": "barbell",
+      "body_part": "cardio",
+      "primary_muscles": [
+        "quadriceps",
+        "shoulders"
+      ],
+      "secondary_muscles": [
+        "glutes",
+        "triceps",
+        "core"
+      ],
+      "difficulty": "advanced",
+      "force": "push",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "thruster",
+        "barbell",
+        "crossfit",
+        "full body",
+        "conditioning"
+      ],
+      "instructions_en": "Hold a barbell in the front rack position resting across your clavicles and shoulders, with elbows pointing forward and feet shoulder-width apart. Inhale, brace your core, and descend smoothly into a full front squat until your hip crease is below the top of your knees with an upright torso. Explode upward through your heels, accelerating rapidly out of the squat. As your hips and knees reach full extension, transfer that upward momentum directly into your upper body, pressing the barbell smoothly overhead until your arms are fully locked out with the bar stacked over your head and heels. Lower the barbell smoothly back to your shoulders as you immediately cushion into the next squat descent."
+    },
+    {
+      "id": 176,
+      "name": "Dumbbell Snatch",
+      "group": "conditioning",
+      "folder": "Conditioning",
+      "video_path": "Conditioning/Dumbbell_Snatch.mp4",
+      "equipment": "dumbbell",
+      "body_part": "cardio",
+      "primary_muscles": [
+        "shoulders",
+        "glutes",
+        "hamstrings"
+      ],
+      "secondary_muscles": [
+        "traps",
+        "calves",
+        "core"
+      ],
+      "difficulty": "intermediate",
+      "force": "pull",
+      "mechanic": "compound",
+      "is_unilateral": true,
+      "tags": [
+        "snatch",
+        "dumbbell",
+        "power",
+        "explosive",
+        "conditioning"
+      ],
+      "instructions_en": "Place a dumbbell on the floor between your feet in a wide shoulder-width stance. Hinge at your hips and bend your knees with a flat back and proud chest, grasping the dumbbell with one hand in an overhand grip. Drive explosively through your heels and extend your hips, knees, and ankles simultaneously (triple extension), pulling the dumbbell vertically upward close along your body. As the dumbbell reaches chest level, rapidly drop your hips slightly to catch the weight overhead, punching your arm straight up to a crisp lockout with knees soft. Stand fully tall to complete the rep, then guide the dumbbell under control back to the floor."
+    },
+    {
+      "id": 177,
+      "name": "Kettlebell Snatch",
+      "group": "conditioning",
+      "folder": "Conditioning",
+      "video_path": "Conditioning/Kettlebell_Snatch.mp4",
+      "equipment": "kettlebell",
+      "body_part": "cardio",
+      "primary_muscles": [
+        "glutes",
+        "hamstrings",
+        "shoulders"
+      ],
+      "secondary_muscles": [
+        "back",
+        "traps",
+        "core"
+      ],
+      "difficulty": "advanced",
+      "force": "pull",
+      "mechanic": "compound",
+      "is_unilateral": true,
+      "tags": [
+        "kettlebell snatch",
+        "kettlebell",
+        "power",
+        "explosive",
+        "conditioning"
+      ],
+      "instructions_en": "Place a kettlebell on the floor one foot in front of you. Stand with feet shoulder-width apart, hinge at the hips with a flat back, and grip the handle with one hand. Hike the kettlebell back between your thighs like a football snap. Explosively snap your hips forward to full vertical extension, driving the kettlebell upward in a high arc close to your body. As the bell floats near shoulder height, slide your hand smoothly around the handle to catch it softly against the back of your wrist, punching your arm straight overhead to a locked vertical position. Lower the kettlebell back down between your legs in a controlled pendulum arc."
+    },
+    {
+      "id": 178,
+      "name": "Kettlebell Clean and Jerk",
+      "group": "conditioning",
+      "folder": "Conditioning",
+      "video_path": "Conditioning/Kettlebell_Clean_and_Jerk.mp4",
+      "equipment": "kettlebell",
+      "body_part": "cardio",
+      "primary_muscles": [
+        "shoulders",
+        "glutes",
+        "hamstrings"
+      ],
+      "secondary_muscles": [
+        "triceps",
+        "core",
+        "quadriceps"
+      ],
+      "difficulty": "advanced",
+      "force": "push",
+      "mechanic": "compound",
+      "is_unilateral": true,
+      "tags": [
+        "clean and jerk",
+        "kettlebell",
+        "olympic",
+        "power",
+        "conditioning"
+      ],
+      "instructions_en": "Stand with feet shoulder-width apart with a kettlebell on the floor in front of you. Hinge at your hips, hike the kettlebell back between your legs, and snap your hips forward to clean the bell smoothly into the front rack at chest height with elbow tucked against your ribs. Settle in the rack for a split-second. Perform a quick, shallow knee dip of 2 to 3 inches with torso vertical, then explosively drive upward through your heels, launching the kettlebell overhead while dropping under the bell into a second shallow dip to catch it with arm fully locked out. Stand up tall to full extension, then lower the bell back to the rack and swing."
+    },
+    {
+      "id": 179,
+      "name": "Turkish Get-Up",
+      "group": "conditioning",
+      "folder": "Conditioning",
+      "video_path": "Conditioning/Turkish_Get-Up.mp4",
+      "equipment": "kettlebell",
+      "body_part": "cardio",
+      "primary_muscles": [
+        "shoulders",
+        "core",
+        "glutes"
+      ],
+      "secondary_muscles": [
+        "quadriceps",
+        "hamstrings",
+        "traps"
+      ],
+      "difficulty": "advanced",
+      "force": "push",
+      "mechanic": "compound",
+      "is_unilateral": true,
+      "tags": [
+        "turkish get-up",
+        "kettlebell",
+        "mobility",
+        "full body",
+        "core stability"
+      ],
+      "instructions_en": "Lie flat on your back on a mat holding a kettlebell pressed vertically overhead in your right arm with elbow locked, right knee bent and foot flat on the floor, left arm and leg extended at 45 degrees. Keeping your eyes locked on the kettlebell and right arm rigidly vertical, roll up onto your left forearm, then press up onto your left palm. Drive through your right heel and left palm to bridge your hips high. Sweep your left leg back and place your left knee on the mat directly beneath your hip. Rotate your torso upright into a half-kneeling lunge position. Drive through your feet to stand tall with the kettlebell locked overhead, then carefully reverse each step to return to the floor."
+    },
+    {
+      "id": 180,
+      "name": "Tire Flip",
+      "group": "conditioning",
+      "folder": "Conditioning",
+      "video_path": "Conditioning/Tire_Flip.mp4",
+      "equipment": "other",
+      "body_part": "cardio",
+      "primary_muscles": [
+        "glutes",
+        "hamstrings",
+        "quadriceps"
+      ],
+      "secondary_muscles": [
+        "back",
+        "shoulders",
+        "biceps",
+        "traps"
+      ],
+      "difficulty": "advanced",
+      "force": "push",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "tire flip",
+        "strongman",
+        "power",
+        "full body",
+        "conditioning"
+      ],
+      "instructions_en": "Stand facing a heavy tractor tire with feet placed wider than shoulder-width. Squat down deeply, pressing your chest firmly against the curved face of the tire with arms extended down to place your palms and fingers underneath the bottom tread. Keep your back flat and core braced. Drive forcefully upward and forward through your legs and hips, exploding out of the squat to launch the tire upward to approximately 45 degrees. Rapidly transition your hands from an underhand grip to an overhand push against the tread, driving forward forcefully with your arms and chest to push the tire completely over onto its opposite side, then reset your athletic stance."
+    },
+    {
+      "id": 181,
+      "name": "Medicine Ball Slam",
+      "group": "conditioning",
+      "folder": "Conditioning",
+      "video_path": "Conditioning/Medicine_Ball_Slam.mp4",
+      "equipment": "medicine ball",
+      "body_part": "cardio",
+      "primary_muscles": [
+        "abdominals",
+        "lats"
+      ],
+      "secondary_muscles": [
+        "shoulders",
+        "quadriceps",
+        "glutes"
+      ],
+      "difficulty": "beginner",
+      "force": "pull",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "medicine ball",
+        "slam",
+        "power",
+        "explosive",
+        "conditioning"
+      ],
+      "instructions_en": "Stand tall with feet shoulder-width apart, holding a non-bouncing medicine ball with both hands at chest level. Inhale and raise the ball straight overhead, extending your hips, knees, and ankles onto the balls of your feet in full triple extension. In an explosive downward motion, engage your core and lats to forcefully throw and slam the medicine ball down into the floor directly in front of your feet, bending your knees and hinging your hips into an athletic squat. Catch the ball on its slight bounce or pick it up cleanly, returning smoothly to the overhead position."
+    },
+    {
+      "id": 182,
+      "name": "Broad Jump",
+      "group": "conditioning",
+      "folder": "Conditioning",
+      "video_path": "Conditioning/Broad_Jump.mp4",
+      "equipment": "body weight",
+      "body_part": "cardio",
+      "primary_muscles": [
+        "quadriceps",
+        "glutes"
+      ],
+      "secondary_muscles": [
+        "calves",
+        "hamstrings",
+        "core"
+      ],
+      "difficulty": "intermediate",
+      "force": "push",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "broad jump",
+        "plyometrics",
+        "explosive",
+        "bodyweight"
+      ],
+      "instructions_en": "Stand tall with feet shoulder-width apart and arms at your sides. Swing your arms backward while hinging at your hips and bending your knees into a loaded athletic quarter-squat. Explosively swing your arms forward and upward while driving forcefully off the floor with both feet, propelling your body horizontally forward through the air. Extend your hips fully in flight, then bring your knees forward and land softly on both feet simultaneously, absorbing the landing forces smoothly into an athletic quarter-squat with chest proud before standing upright."
+    },
+    {
+      "id": 183,
+      "name": "Star Jump",
+      "group": "conditioning",
+      "folder": "Conditioning",
+      "video_path": "Conditioning/Star_Jump.mp4",
+      "equipment": "body weight",
+      "body_part": "cardio",
+      "primary_muscles": [
+        "quadriceps",
+        "calves"
+      ],
+      "secondary_muscles": [
+        "shoulders",
+        "glutes",
+        "core"
+      ],
+      "difficulty": "intermediate",
+      "force": "push",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "star jump",
+        "plyometrics",
+        "cardio",
+        "bodyweight"
+      ],
+      "instructions_en": "Begin in a low crouch with feet together, knees deeply bent, torso inclined forward, and fingertips lightly touching near your ankles. In an explosive movement, jump straight up into the air as high as possible, simultaneously spreading your arms and legs wide diagonally outward so your entire body forms a large star or X-shape in mid-air at the apex of the jump. Quickly snap your arms and legs back together as you descend, landing softly and lightly on the balls of your feet to sink immediately back into the low crouch starting position."
+    },
+    {
+      "id": 184,
+      "name": "Jumping Lunge",
+      "group": "conditioning",
+      "folder": "Conditioning",
+      "video_path": "Conditioning/Jumping_Lunge.mp4",
+      "equipment": "body weight",
+      "body_part": "cardio",
+      "primary_muscles": [
+        "quadriceps",
+        "glutes"
+      ],
+      "secondary_muscles": [
+        "calves",
+        "hamstrings"
+      ],
+      "difficulty": "advanced",
+      "force": "push",
+      "mechanic": "compound",
+      "is_unilateral": true,
+      "tags": [
+        "jumping lunge",
+        "plyometrics",
+        "legs",
+        "bodyweight"
+      ],
+      "instructions_en": "Start in a deep forward lunge with your right foot planted forward, left leg extended backward, and both knees bent at 90 degrees with your left knee hovering just an inch off the floor. Keep your torso upright and core braced. Drive explosively off the floor through both feet, jumping straight upward into the air. In mid-air, rapidly switch your legs in a scissor motion, driving your left leg forward and your right leg backward. Land softly and quietly, absorbing the impact directly into a deep lunge on the opposite side, then immediately repeat the scissor jump."
+    },
+    {
+      "id": 185,
+      "name": "Incline Treadmill Walk",
+      "group": "conditioning",
+      "folder": "Conditioning",
+      "video_path": "Conditioning/Incline_Treadmill_Walk.mp4",
+      "equipment": "machine",
+      "body_part": "cardio",
+      "primary_muscles": [
+        "calves",
+        "glutes",
+        "hamstrings"
+      ],
+      "secondary_muscles": [
+        "quadriceps",
+        "cardiovascular system"
+      ],
+      "difficulty": "beginner",
+      "force": "push",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "treadmill",
+        "incline walk",
+        "cardio",
+        "fat burn"
+      ],
+      "instructions_en": "Walk on a motorized fitness treadmill set to a steep incline (10 to 15 percent) at a steady, purposeful walking pace. Maintain an upright, tall posture with your chest lifted, shoulders back, and core lightly engaged. Avoid leaning excessively forward or clutching the handrails. Take rhythmic, deliberate strides, planting your front heel and rolling through the midfoot to drive off the toes, swinging your arms naturally and rhythmically at your sides in synchrony with your gait."
+    },
+    {
+      "id": 186,
+      "name": "Stationary Bike",
+      "group": "conditioning",
+      "folder": "Conditioning",
+      "video_path": "Conditioning/Stationary_Bike.mp4",
+      "equipment": "machine",
+      "body_part": "cardio",
+      "primary_muscles": [
+        "quadriceps",
+        "glutes"
+      ],
+      "secondary_muscles": [
+        "calves",
+        "hamstrings",
+        "cardiovascular system"
+      ],
+      "difficulty": "beginner",
+      "force": "push",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "bike",
+        "cycling",
+        "cardio",
+        "endurance"
+      ],
+      "instructions_en": "Sit upright on a stationary fitness exercise bike with the saddle adjusted to hip height so there is a slight, comfortable bend (roughly 25 to 30 degrees) in your knee at the bottom of the pedal stroke. Secure the balls of your feet into the pedal straps. Grasp the handlebars with a relaxed, neutral grip and keep your chest open with shoulders relaxed away from your ears. Pedal smoothly in continuous, fluid 360-degree circles, applying even pressure throughout both the downstroke and upstroke while maintaining a steady, rhythmic cadence."
+    },
+    {
+      "id": 187,
+      "name": "Rope Climb",
+      "group": "conditioning",
+      "folder": "Conditioning",
+      "video_path": "Conditioning/Rope_Climb.mp4",
+      "equipment": "rope",
+      "body_part": "cardio",
+      "primary_muscles": [
+        "lats",
+        "biceps",
+        "forearms"
+      ],
+      "secondary_muscles": [
+        "core",
+        "rhomboids",
+        "shoulders"
+      ],
+      "difficulty": "advanced",
+      "force": "pull",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "rope climb",
+        "grip",
+        "back",
+        "biceps",
+        "bodyweight"
+      ],
+      "instructions_en": "Stand tall at the base of a heavy suspended climbing rope. Reach high overhead with both hands staggered along the rope in a firm overhand grip. Jump up slightly and clamp the rope securely between your feet using a J-hook or S-wrap foot wrap technique, locking the rope between your instep and opposite shoe sole. Stand up straight on your feet to extend your knees and hips, bearing your weight through your legs. Reach your hands higher one at a time, re-clamp your feet higher, and ascend smoothly before reversing your foot clamp and hand steps to descend under strict control."
+    },
+    {
+      "id": 188,
+      "name": "Sprawl",
+      "group": "conditioning",
+      "folder": "Conditioning",
+      "video_path": "Conditioning/Sprawl.mp4",
+      "equipment": "body weight",
+      "body_part": "cardio",
+      "primary_muscles": [
+        "quadriceps",
+        "core"
+      ],
+      "secondary_muscles": [
+        "chest",
+        "shoulders",
+        "glutes"
+      ],
+      "difficulty": "intermediate",
+      "force": "push",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "sprawl",
+        "mma",
+        "burpee",
+        "conditioning",
+        "bodyweight"
+      ],
+      "instructions_en": "Stand with feet slightly wider than shoulder-width apart. Drop your hips quickly, bend your knees, and place both hands flat on the floor inside your feet. Jump both feet back into a wide high plank position, momentarily dropping your hips slightly with core braced (without letting chest touch the floor). Immediately spring both feet back forward outside your hands into a low squat, lift your hands, and stand tall into your starting athletic ready position."
+    },
+    {
+      "id": 189,
+      "name": "Plank Jacks",
+      "group": "conditioning",
+      "folder": "Conditioning",
+      "video_path": "Conditioning/Plank_Jacks.mp4",
+      "equipment": "body weight",
+      "body_part": "cardio",
+      "primary_muscles": [
+        "abdominals",
+        "glutes"
+      ],
+      "secondary_muscles": [
+        "shoulders",
+        "calves",
+        "adductors"
+      ],
+      "difficulty": "beginner",
+      "force": "static",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "plank jacks",
+        "core",
+        "cardio",
+        "bodyweight"
+      ],
+      "instructions_en": "Start in a standard high plank with wrists directly beneath shoulders and feet together. Keep your core tight and back flat. Jump both feet outward to shoulder-width apart or wider, landing lightly on the balls of your feet, just like the leg motion of a jumping jack. Immediately jump both feet back together to the center, absorbing the impact softly without bouncing your hips up or letting your lower back sag."
+    },
+    {
+      "id": 190,
+      "name": "Step Jacks",
+      "group": "conditioning",
+      "folder": "Conditioning",
+      "video_path": "Conditioning/Step_Jacks.mp4",
+      "equipment": "body weight",
+      "body_part": "cardio",
+      "primary_muscles": [
+        "calves",
+        "shoulders"
+      ],
+      "secondary_muscles": [
+        "glutes",
+        "quadriceps"
+      ],
+      "difficulty": "beginner",
+      "force": "push",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "step jacks",
+        "low impact",
+        "cardio",
+        "bodyweight"
+      ],
+      "instructions_en": "Stand tall with feet together and arms at your sides. Step your right foot wide out to the side while simultaneously raising both arms out to the sides and overhead until your hands meet. Tap the ball of your right foot on the floor, then step your right foot back to center as you lower your arms. Immediately repeat by stepping your left foot out wide and raising your arms overhead, maintaining a steady, low-impact rhythm."
+    },
+    {
+      "id": 191,
+      "name": "Shadow Boxing",
+      "group": "conditioning",
+      "folder": "Conditioning",
+      "video_path": "Conditioning/Shadow_Boxing.mp4",
+      "equipment": "body weight",
+      "body_part": "cardio",
+      "primary_muscles": [
+        "shoulders",
+        "core"
+      ],
+      "secondary_muscles": [
+        "calves",
+        "chest",
+        "arms"
+      ],
+      "difficulty": "beginner",
+      "force": "push",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "shadow boxing",
+        "boxing",
+        "cardio",
+        "speed",
+        "bodyweight"
+      ],
+      "instructions_en": "Stand in an athletic boxing stance with left foot forward, right foot back, knees slightly bent, and fists held high guarding your chin. Extend your lead left arm straight forward in a quick, snappy jab, rotating the palm downward at full extension. Retract the left hand immediately back to your cheek while rotating your hips and rear right foot forward, throwing a powerful straight right cross. Snap the right hand back to the guard position, resetting the athletic stance."
+    },
+    {
+      "id": 192,
+      "name": "Inchworm",
+      "group": "conditioning",
+      "folder": "Conditioning",
+      "video_path": "Conditioning/Inchworm.mp4",
+      "equipment": "body weight",
+      "body_part": "cardio",
+      "primary_muscles": [
+        "abdominals",
+        "shoulders"
+      ],
+      "secondary_muscles": [
+        "hamstrings",
+        "chest",
+        "calves"
+      ],
+      "difficulty": "beginner",
+      "force": "push",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "inchworm",
+        "mobility",
+        "core",
+        "hamstrings",
+        "bodyweight"
+      ],
+      "instructions_en": "Stand tall with feet hip-width apart. Hinge at your hips and bend forward, keeping legs as straight as comfortable, until your hands touch the floor. Walk your hands forward one at a time until your body forms a straight high plank position. Pause for a split-second with core braced, then walk your hands backward toward your feet, maintaining straight legs to stretch the hamstrings, and stand upright to the starting position."
+    },
+    {
+      "id": 193,
+      "name": "Pike Push-Up",
+      "group": "shoulders",
+      "folder": "Shoulders",
+      "video_path": "Shoulders/Pike_Push-Up.mp4",
+      "equipment": "body weight",
+      "body_part": "shoulders",
+      "primary_muscles": [
+        "anterior deltoid",
+        "lateral deltoid"
+      ],
+      "secondary_muscles": [
+        "triceps",
+        "upper chest",
+        "traps"
+      ],
+      "difficulty": "intermediate",
+      "force": "push",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "pike push-up",
+        "shoulders",
+        "bodyweight",
+        "calisthenics"
+      ],
+      "instructions_en": "Start in a standard high plank push-up position, then walk your feet forward toward your hands and elevate your hips high into the air, creating a sharp inverted V-shape with straight arms and legs. Shift your body weight forward onto your hands so your shoulders are stacked over your wrists. Inhale, bend your elbows backward at a 45-degree angle to your torso, and lower the crown of your head diagonally forward toward the floor until it lightly grazes the ground just ahead of your fingertips. Press forcefully through your palms and anterior deltoids to push back upward along the same diagonal path into the high pike starting position."
+    },
+    {
+      "id": 194,
+      "name": "Handstand Push-Up",
+      "group": "shoulders",
+      "folder": "Shoulders",
+      "video_path": "Shoulders/Handstand_Push-Up.mp4",
+      "equipment": "body weight",
+      "body_part": "shoulders",
+      "primary_muscles": [
+        "anterior deltoid",
+        "lateral deltoid",
+        "triceps"
+      ],
+      "secondary_muscles": [
+        "traps",
+        "upper chest",
+        "core"
+      ],
+      "difficulty": "advanced",
+      "force": "push",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "handstand push-up",
+        "calisthenics",
+        "shoulders",
+        "advanced",
+        "bodyweight"
+      ],
+      "instructions_en": "Kick up into a full vertical handstand against a flat wall, placing your hands shoulder-width apart approximately 6 to 8 inches from the wall, with fingers spread and core rigid. Begin with arms locked out completely, body straight, and heels lightly touching the wall. Slowly bend your elbows backward at a 45-degree angle, lowering your body under strict control until the top of your head gently touches an abmat or the floor. Press forcefully through your palms and shoulders, driving your body straight back up the wall until your arms are fully extended in the locked-out handstand starting position."
+    },
+    {
+      "id": 195,
+      "name": "Wall Handstand Hold",
+      "group": "shoulders",
+      "folder": "Shoulders",
+      "video_path": "Shoulders/Wall_Handstand_Hold.mp4",
+      "equipment": "body weight",
+      "body_part": "shoulders",
+      "primary_muscles": [
+        "shoulders",
+        "traps"
+      ],
+      "secondary_muscles": [
+        "core",
+        "triceps",
+        "serratus anterior"
+      ],
+      "difficulty": "intermediate",
+      "force": "static",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "handstand",
+        "isometric",
+        "shoulder stability",
+        "bodyweight"
+      ],
+      "instructions_en": "Kick up into a solid handstand with your heels resting lightly against a sturdy wall (or walk up into a chest-to-wall handstand). Place your hands firmly on the floor shoulder-width apart, fingers gripping the mat. Lock your elbows out fully, press your shoulders actively upward toward your ears (scapular elevation), and brace your core and glutes to eliminate any excessive banana arch in your lower back. Hold this rock-solid, motionless isometric inverted handstand position steadily with calm breathing, then step your feet down smoothly under control."
+    },
+    {
+      "id": 196,
+      "name": "Dumbbell Cuban Press",
+      "group": "shoulders",
+      "folder": "Shoulders",
+      "video_path": "Shoulders/Dumbbell_Cuban_Press.mp4",
+      "equipment": "dumbbell",
+      "body_part": "shoulders",
+      "primary_muscles": [
+        "rotator cuff",
+        "deltoids"
+      ],
+      "secondary_muscles": [
+        "traps",
+        "triceps"
+      ],
+      "difficulty": "intermediate",
+      "force": "push",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "cuban press",
+        "dumbbell",
+        "rotator cuff",
+        "shoulder health"
+      ],
+      "instructions_en": "Stand tall holding a pair of light dumbbells in front of your thighs with an overhand pronated grip, feet shoulder-width apart. Upright row the dumbbells vertically until your upper arms are parallel to the floor, forming a 90-degree angle at the elbows. Pausing with elbows high, externally rotate your shoulders upward 90 degrees until your forearms are vertical and dumbbells are beside your ears. From this goalpost position, press the dumbbells straight overhead to a full arm lockout. Reverse the movement smoothly: lower to goalpost, internally rotate to horizontal elbows, and lower to thighs."
+    },
+    {
+      "id": 197,
+      "name": "Cable Reverse Fly",
+      "group": "shoulders",
+      "folder": "Shoulders",
+      "video_path": "Shoulders/Cable_Reverse_Fly.mp4",
+      "equipment": "cable",
+      "body_part": "shoulders",
+      "primary_muscles": [
+        "posterior deltoid"
+      ],
+      "secondary_muscles": [
+        "rhomboids",
+        "traps"
+      ],
+      "difficulty": "beginner",
+      "force": "pull",
+      "mechanic": "isolation",
+      "is_unilateral": false,
+      "tags": [
+        "cable",
+        "reverse fly",
+        "rear delt",
+        "posture"
+      ],
+      "instructions_en": "Set the pulleys of a dual-cable crossover machine at upper chest/shoulder height without handles. Stand centered facing the machine. Grasp the left cable with your right hand and the right cable with your left hand so the cables cross in front of you. Take a step back to create tension, extending your arms straight forward at shoulder height with a soft micro-bend in your elbows. Keeping your arms in that horizontal plane, pull your hands outward and backward in a wide horizontal arc until your hands are level with your shoulders. Squeeze your rear deltoids hard, then slowly control the cables back to the starting crossed position."
+    },
+    {
+      "id": 198,
+      "name": "Cable Rear Delt Row",
+      "group": "shoulders",
+      "folder": "Shoulders",
+      "video_path": "Shoulders/Cable_Rear_Delt_Row.mp4",
+      "equipment": "cable",
+      "body_part": "shoulders",
+      "primary_muscles": [
+        "posterior deltoid",
+        "rhomboids"
+      ],
+      "secondary_muscles": [
+        "biceps",
+        "traps",
+        "lats"
+      ],
+      "difficulty": "intermediate",
+      "force": "pull",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "cable",
+        "rear delt row",
+        "upper back",
+        "shoulders"
+      ],
+      "instructions_en": "Attach a rope attachment to a cable pulley adjusted to chest or eye height. Grasp the rope ends with an overhand grip (thumbs pointing backward) and take two steps back into an athletic staggered stance with knees soft. Extend your arms forward to create cable tension with chest proud. Pull the rope ends directly toward your face and upper chest, flaring your elbows wide out to the sides at shoulder height. Squeeze your rear deltoids and pinch your shoulder blades together at the peak of the row, then slowly allow the cable to pull your arms back forward to full extension."
+    },
+    {
+      "id": 199,
+      "name": "Band Y-Raise",
+      "group": "shoulders",
+      "folder": "Shoulders",
+      "video_path": "Shoulders/Band_Y-Raise.mp4",
+      "equipment": "resistance band",
+      "body_part": "shoulders",
+      "primary_muscles": [
+        "lower traps",
+        "lateral deltoid"
+      ],
+      "secondary_muscles": [
+        "posterior deltoid",
+        "rotator cuff"
+      ],
+      "difficulty": "beginner",
+      "force": "pull",
+      "mechanic": "isolation",
+      "is_unilateral": false,
+      "tags": [
+        "band",
+        "y-raise",
+        "scapular",
+        "shoulders"
+      ],
+      "instructions_en": "Stand on the center of a resistance band with feet shoulder-width apart, holding the band handles with opposite hands so the band crosses in front of your shins. Begin with arms hanging down in front of your hips, thumbs pointing upward. Keeping your elbows straight with a soft micro-bend, raise both arms diagonally upward and outward at a 45-degree angle until your body forms a clean Y-shape overhead. Squeeze your lower trapezius and rear deltoids at the top of the range for a full second, then lower your arms slowly under control back to the crossed starting position."
+    },
+    {
+      "id": 200,
+      "name": "Kettlebell Push Press",
+      "group": "shoulders",
+      "folder": "Shoulders",
+      "video_path": "Shoulders/Kettlebell_Push_Press.mp4",
+      "equipment": "kettlebell",
+      "body_part": "shoulders",
+      "primary_muscles": [
+        "shoulders",
+        "triceps"
+      ],
+      "secondary_muscles": [
+        "quadriceps",
+        "glutes",
+        "core"
+      ],
+      "difficulty": "intermediate",
+      "force": "push",
+      "mechanic": "compound",
+      "is_unilateral": true,
+      "tags": [
+        "kettlebell",
+        "push press",
+        "shoulders",
+        "power",
+        "overhead"
+      ],
+      "instructions_en": "Clean a kettlebell into the front rack position resting on the outside of your forearm with elbow tucked against your ribs and feet shoulder-width apart. Keep your torso completely upright. Perform a quick, shallow knee dip of 2 to 3 inches, bending at the knees without hinging forward at the hips. Explosively drive through your heels to extend your knees and hips, using the momentum of your lower body to launch the kettlebell straight upward overhead to a full arm lockout. Stand tall at the top with glutes squeezed, then lower the bell smoothly back into the front rack cushion."
+    },
+    {
+      "id": 201,
+      "name": "Machine Single-Arm Shoulder Press",
+      "group": "shoulders",
+      "folder": "Shoulders",
+      "video_path": "Shoulders/Machine_Single-Arm_Shoulder_Press.mp4",
+      "equipment": "leverage machine",
+      "body_part": "shoulders",
+      "primary_muscles": [
+        "anterior deltoid",
+        "lateral deltoid"
+      ],
+      "secondary_muscles": [
+        "triceps",
+        "traps"
+      ],
+      "difficulty": "beginner",
+      "force": "push",
+      "mechanic": "compound",
+      "is_unilateral": true,
+      "tags": [
+        "machine",
+        "shoulder press",
+        "unilateral",
+        "deltoids"
+      ],
+      "instructions_en": "Sit in a seated shoulder press machine, adjusting the seat height so the handles align at shoulder height. Grasp the right handle with an overhand or neutral grip while resting your left hand comfortably on your left thigh, feet planted flat on the floor. Keeping your torso strictly upright and core braced, press the right handle upward along the machine's guided track until your right arm is fully extended overhead. Pause for a moment to contract your shoulder at the top, then lower the handle smoothly and under control back to shoulder level."
+    },
+    {
+      "id": 202,
+      "name": "Band Lateral Raise",
+      "group": "shoulders",
+      "folder": "Shoulders",
+      "video_path": "Shoulders/Band_Lateral_Raise.mp4",
+      "equipment": "resistance band",
+      "body_part": "shoulders",
+      "primary_muscles": [
+        "lateral deltoid"
+      ],
+      "secondary_muscles": [
+        "anterior deltoid",
+        "traps"
+      ],
+      "difficulty": "beginner",
+      "force": "pull",
+      "mechanic": "isolation",
+      "is_unilateral": false,
+      "tags": [
+        "band",
+        "lateral raise",
+        "side delts",
+        "deltoids"
+      ],
+      "instructions_en": "Stand on the center of a resistance band with feet hip-width apart, holding the band handles at your sides with palms facing inward and arms hanging straight down. Keep your shoulders relaxed down and core braced. With a slight soft bend in your elbows, raise both arms out to the sides in a wide arc until your upper arms are parallel to the floor at shoulder height, leading with your elbows and keeping your wrists neutral. Hold the peak contraction against the band's maximum tension for a full second, then lower your hands slowly back down to your sides."
+    },
+    {
+      "id": 203,
+      "name": "Band Shoulder Press",
+      "group": "shoulders",
+      "folder": "Shoulders",
+      "video_path": "Shoulders/Band_Shoulder_Press.mp4",
+      "equipment": "resistance band",
+      "body_part": "shoulders",
+      "primary_muscles": [
+        "anterior deltoid",
+        "lateral deltoid"
+      ],
+      "secondary_muscles": [
+        "triceps",
+        "traps"
+      ],
+      "difficulty": "beginner",
+      "force": "push",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "band",
+        "shoulder press",
+        "overhead press",
+        "shoulders"
+      ],
+      "instructions_en": "Stand with feet shoulder-width apart on the center of a resistance band. Bring the band handles up to shoulder height, with palms facing forward, elbows tucked beneath your wrists, and the band running behind your arms. Inhale, brace your core, and press both handles straight up overhead against the increasing elastic tension until your arms are fully locked out overhead. Pause for a moment at peak extension with shoulders engaged, then lower your hands slowly under strict control back down to shoulder level."
+    },
+    {
+      "id": 204,
+      "name": "Incline Rear Delt Raise",
+      "group": "shoulders",
+      "folder": "Shoulders",
+      "video_path": "Shoulders/Incline_Rear_Delt_Raise.mp4",
+      "equipment": "dumbbell",
+      "body_part": "shoulders",
+      "primary_muscles": [
+        "posterior deltoid"
+      ],
+      "secondary_muscles": [
+        "rhomboids",
+        "traps"
+      ],
+      "difficulty": "beginner",
+      "force": "pull",
+      "mechanic": "isolation",
+      "is_unilateral": false,
+      "tags": [
+        "incline rear delt",
+        "dumbbell",
+        "rear delts",
+        "bench"
+      ],
+      "instructions_en": "Set an adjustable gym bench to a 30 to 45-degree incline. Lie face-down prone on the bench with your chest supported against the pad and feet resting on the floor. Hold a pair of light dumbbells hanging vertically straight beneath your chest with palms facing each other and elbows slightly bent. Keeping that slight elbow bend fixed, raise the dumbbells outward and slightly backward in a wide semicircular arc until your upper arms are parallel to the floor, leading with your pinkies. Squeeze your posterior deltoids and rhomboids at the top, then lower slowly back to the starting hang."
+    },
+    {
+      "id": 205,
+      "name": "Barbell Bradford Press",
+      "group": "shoulders",
+      "folder": "Shoulders",
+      "video_path": "Shoulders/Barbell_Bradford_Press.mp4",
+      "equipment": "barbell",
+      "body_part": "shoulders",
+      "primary_muscles": [
+        "anterior deltoid",
+        "lateral deltoid"
+      ],
+      "secondary_muscles": [
+        "posterior deltoid",
+        "triceps",
+        "traps"
+      ],
+      "difficulty": "advanced",
+      "force": "push",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "bradford press",
+        "barbell",
+        "shoulders",
+        "time under tension"
+      ],
+      "instructions_en": "Stand tall with feet shoulder-width apart holding a barbell across your upper chest in a front rack position with an overhand grip slightly wider than shoulders. Inhale and press the barbell upward just enough to barely clear the top of your head. Without locking your elbows out overhead, rotate your shoulders to move the bar backward over the crown of your head and lower it under control to touch your upper trapezius behind your neck. Immediately reverse the movement, pressing the bar up just enough to clear your head and returning it smoothly back to the front rack.\n\n\n=== Chest ==="
+    },
+    {
+      "id": 206,
+      "name": "Low-to-High Cable Fly",
+      "group": "chest",
+      "folder": "Chest",
+      "video_path": "Chest/Low-to-High_Cable_Fly.mp4",
+      "equipment": "cable",
+      "body_part": "chest",
+      "primary_muscles": [
+        "upper chest",
+        "pectoralis major"
+      ],
+      "secondary_muscles": [
+        "anterior deltoid",
+        "biceps"
+      ],
+      "difficulty": "intermediate",
+      "force": "push",
+      "mechanic": "isolation",
+      "is_unilateral": false,
+      "tags": [
+        "cable fly",
+        "low-to-high",
+        "upper chest",
+        "cable"
+      ],
+      "instructions_en": "Set both cable pulleys to their lowest position with single D-handles attached. Stand centered between the pulleys, grasp the handles with palms facing forward, and take one step forward into an athletic staggered stance with chest proud and shoulders retracted. Keeping your arms extended with a slight soft elbow bend, pull the cables upward and inward in a smooth diagonal arc until your hands meet directly in front of your upper chest/collarbone with pinkies slightly turned upward. Squeeze your upper chest intensely at the peak contraction for a full second, then slowly lower the cables back down to the starting stretch."
+    },
+    {
+      "id": 207,
+      "name": "Machine Chest Fly",
+      "group": "chest",
+      "folder": "Chest",
+      "video_path": "Chest/Machine_Chest_Fly.mp4",
+      "equipment": "leverage machine",
+      "body_part": "chest",
+      "primary_muscles": [
+        "pectoralis major"
+      ],
+      "secondary_muscles": [
+        "anterior deltoid"
+      ],
+      "difficulty": "beginner",
+      "force": "push",
+      "mechanic": "isolation",
+      "is_unilateral": false,
+      "tags": [
+        "pec deck",
+        "chest fly",
+        "machine",
+        "chest"
+      ],
+      "instructions_en": "Sit upright in the pec deck machine with your back and head pressed firmly against the vertical support pad and feet flat on the floor. Adjust the seat height so that the handles or elbow pads align directly with the middle of your chest. Grasp the vertical handles with elbows slightly bent. Retract your shoulder blades and brace your core. Contract your pectorals to bring the handles together in a smooth, semicircular arc in front of your chest until they touch directly at your midline. Squeeze your inner and middle chest hard for a full second, then slowly reverse the motion back to the starting stretch position."
+    },
+    {
+      "id": 208,
+      "name": "Wide-Grip Barbell Bench Press",
+      "group": "chest",
+      "folder": "Chest",
+      "video_path": "Chest/Wide-Grip_Barbell_Bench_Press.mp4",
+      "equipment": "barbell",
+      "body_part": "chest",
+      "primary_muscles": [
+        "pectoralis major"
+      ],
+      "secondary_muscles": [
+        "anterior deltoid",
+        "triceps"
+      ],
+      "difficulty": "intermediate",
+      "force": "push",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "bench press",
+        "wide grip",
+        "barbell",
+        "chest",
+        "strength"
+      ],
+      "instructions_en": "Lie flat on a standard bench press with your shoulder blades retracted and feet planted firmly on the floor. Grasp the barbell with an overhand grip spaced wide, approximately 1.5 to 1.75 times shoulder-width apart. Unrack the bar and hold it directly above your chest with arms locked. Inhale and lower the barbell slowly under control until it lightly touches your mid-chest, allowing your elbows to flare out at roughly 60 to 70 degrees from your torso while keeping forearms vertical. Press the barbell straight back up to full extension, driving through your palms and squeezing your chest at the top."
+    },
+    {
+      "id": 209,
+      "name": "Svend Press",
+      "group": "chest",
+      "folder": "Chest",
+      "video_path": "Chest/Svend_Press.mp4",
+      "equipment": "dumbbell",
+      "body_part": "chest",
+      "primary_muscles": [
+        "inner chest",
+        "pectoralis major"
+      ],
+      "secondary_muscles": [
+        "anterior deltoid",
+        "triceps"
+      ],
+      "difficulty": "beginner",
+      "force": "push",
+      "mechanic": "isolation",
+      "is_unilateral": false,
+      "tags": [
+        "svend press",
+        "plate press",
+        "inner chest",
+        "isometric"
+      ],
+      "instructions_en": "Stand tall with feet shoulder-width apart holding two light weight plates (or one plate) squeezed tightly together between the palms of your hands at the center of your chest, with fingers pointing forward and elbows flared out to the sides. Maintain continuous, maximum inward pressure against the plates with your palms throughout. Slowly press your hands straight out in front of your chest until your arms are fully extended at shoulder height, feeling an intense isometric contraction in your inner and middle pectorals. Hold for a full second, then slowly pull the plates back to your chest."
+    },
+    {
+      "id": 210,
+      "name": "Wide-Grip Push-Up",
+      "group": "chest",
+      "folder": "Chest",
+      "video_path": "Chest/Wide-Grip_Push-Up.mp4",
+      "equipment": "body weight",
+      "body_part": "chest",
+      "primary_muscles": [
+        "pectoralis major"
+      ],
+      "secondary_muscles": [
+        "anterior deltoid",
+        "triceps",
+        "core"
+      ],
+      "difficulty": "beginner",
+      "force": "push",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "push-up",
+        "wide grip",
+        "chest",
+        "bodyweight"
+      ],
+      "instructions_en": "Set up in a push-up position with hands placed noticeably wider than shoulder-width apart (approximately 1.5 times shoulder width) and fingers pointing slightly outward. Keep glutes squeezed and core engaged. Lower your torso down until your chest is an inch above the floor, feeling an active stretch across the pectorals. Push powerfully through the palms to lockout at the top of the plank."
+    },
+    {
+      "id": 211,
+      "name": "Archer Push-Up",
+      "group": "chest",
+      "folder": "Chest",
+      "video_path": "Chest/Archer_Push-Up.mp4",
+      "equipment": "body weight",
+      "body_part": "chest",
+      "primary_muscles": [
+        "pectoralis major",
+        "triceps"
+      ],
+      "secondary_muscles": [
+        "anterior deltoid",
+        "core"
+      ],
+      "difficulty": "advanced",
+      "force": "push",
+      "mechanic": "compound",
+      "is_unilateral": true,
+      "tags": [
+        "archer push-up",
+        "calisthenics",
+        "chest",
+        "unilateral",
+        "bodyweight"
+      ],
+      "instructions_en": "Begin in an extra-wide push-up stance with hands turned slightly outward and feet hip-width apart. Lower your body down toward your right side, bending the right elbow while keeping the left arm completely straight and extended out to the side like an archer drawing a bow. Lower until your right chest hovers just over your right hand, then press back up through the right hand to the center starting position."
+    },
+    {
+      "id": 212,
+      "name": "Hand-Release Push-Up",
+      "group": "chest",
+      "folder": "Chest",
+      "video_path": "Chest/Hand-Release_Push-Up.mp4",
+      "equipment": "body weight",
+      "body_part": "chest",
+      "primary_muscles": [
+        "pectoralis major",
+        "triceps"
+      ],
+      "secondary_muscles": [
+        "anterior deltoid",
+        "core"
+      ],
+      "difficulty": "intermediate",
+      "force": "push",
+      "mechanic": "compound",
+      "is_unilateral": false,
+      "tags": [
+        "hand-release push-up",
+        "chest",
+        "push-up",
+        "bodyweight"
+      ],
+      "instructions_en": "Start in a rigid high plank position. Lower your body under control all the way to the floor until your chest, thighs, and pelvis rest flat. At the bottom, briefly lift both palms 2 inches off the floor to disengage momentum and ensure full depth. Plant your hands firmly back under your shoulders, brace your core, and push the floor away in one unified piece back to the top plank position.\n\n\n=== Biceps ==="
     }
   ]
 }
