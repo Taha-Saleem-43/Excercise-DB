@@ -1,0 +1,197 @@
+=== FitAI V2 Core Exercises (Video Generation Prompts) ===
+Dataset: FitAI / Exercise-DB (Selected Metadata Exercises: 4, 19, 35, 88, 103)
+Performer: Realistic adult man (male athlete)
+Attire: Modest full-coverage athletic clothing (Full clothes: Crewneck athletic t-shirt, full-length athletic pants/track pants, athletic training shoes; no shorts, no sleeveless tops, no exposed chest, no bare midriff)
+Specifications: 6-Second Seamless Loop, Full-Body Framing, Fixed Camera Angle, High-Precision Biomechanics, Anti-Hallucination Constraints
+Guidance Reference: add_exercises_prompts.txt / MetaData.json
+
+
+================================================================================
+PART 1: TEXT PROMPTS (FORMAT MATCHING add_exercises_prompts.txt)
+================================================================================
+
+=== Legs / Glutes ===
+
+4. Bodyweight Squat
+Prompt: Generate a professional fitness-app exercise demonstration video. Duration: exactly 6 seconds. One continuous seamless loop showing one complete, controlled repetition from the starting position through the movement and back to the exact starting position. Full body and all relevant joints must remain visible. Static camera, full-body framing, realistic adult man, modest full-coverage athletic clothing, fully clothed in a crewneck athletic t-shirt and full-length athletic pants, athletic training shoes, clean uncluttered bright modern gym fitness setting, natural lighting, realistic anatomy and motion. No revealing clothing, no bare midriff, no exposed chest, no shorts, no sleeveless tops, no cuts, zooms, camera movement, transitions, text, labels, logos, music, voiceover, watermarks, or unnecessary objects. Prioritize correct exercise form and clearly visible range of motion. The final frame must match the first frame for looping. Use a side three-quarter profile camera angle that clearly displays a neutral spine, upright chest, knee tracking aligned over the toes, and hip crease descending to or below knee parallel. Exercise: Bodyweight Squat. Follow the source exercise instructions exactly: Stand tall with feet shoulder-width apart and toes pointing slightly outward at roughly 15 degrees, with hands comfortably clasped at chest level for balance. Inhale and brace your core. Lower your body down by hinging backward at your hips and bending your knees simultaneously as if sitting down into a sturdy chair. Keep your chest proud, spine straight and neutral, and heels pressed firmly into the floor throughout the entire descent. Lower smoothly until your thighs are parallel to the ground or as low as full mobility allows without rounding your lower back. Pause cleanly for a moment at the bottom of the squat, then drive forcefully through your heels and midfoot, extending your knees and hips in unison to return to the tall standing starting position, squeezing your glutes at the top without hyperextending your spine.
+
+
+19. Forward Lunge
+Prompt: Generate a professional fitness-app exercise demonstration video. Duration: exactly 6 seconds. One continuous seamless loop showing one complete, controlled repetition from the starting position through the movement and back to the exact starting position. Full body and all relevant joints must remain visible. Static camera, full-body framing, realistic adult man, modest full-coverage athletic clothing, fully clothed in a crewneck athletic t-shirt and full-length athletic pants, athletic training shoes, clean uncluttered bright modern gym fitness setting, natural lighting, realistic anatomy and motion. No revealing clothing, no bare midriff, no exposed chest, no shorts, no sleeveless tops, no cuts, zooms, camera movement, transitions, text, labels, logos, music, voiceover, watermarks, or unnecessary objects. Prioritize correct exercise form and clearly visible range of motion. The final frame must match the first frame for looping. Use a side profile camera angle that captures the precise stride length, upright vertical torso, dual 90-degree knee angles at maximum depth, and explosive single-leg push back. Exercise: Forward Lunge. Follow the source exercise instructions exactly: Stand upright and tall with feet hip-width apart and hands resting firmly on your hips. Inhale and brace your core. Take a large, deliberate step forward with your right foot, planting your front heel and midfoot flat on the floor while lowering your hips vertically downward into a lunge position. Bend your right front knee to approximately 90 degrees, keeping your knee stacked directly above your ankle and tracking in line with your toes, while your rear left knee descends until it hovers one to two inches above the ground with the left heel raised. Maintain a tall, vertical chest and square pelvis throughout the descent. Pause for a split-second at the bottom, then drive powerfully into the floor through your right front heel and midfoot to push off and return smoothly in one continuous motion to the tall standing starting position with feet together.
+
+
+=== Chest ===
+
+35. Push-Up
+Prompt: Generate a professional fitness-app exercise demonstration video. Duration: exactly 6 seconds. One continuous seamless loop showing one complete, controlled repetition from the starting position through the movement and back to the exact starting position. Full body and all relevant joints must remain visible. Static camera, full-body framing, realistic adult man, modest full-coverage athletic clothing, fully clothed in a crewneck athletic t-shirt and full-length athletic pants, athletic training shoes, clean uncluttered bright modern gym fitness setting, natural lighting, realistic anatomy and motion. No revealing clothing, no bare midriff, no exposed chest, no shorts, no sleeveless tops, no cuts, zooms, camera movement, transitions, text, labels, logos, music, voiceover, watermarks, or unnecessary objects. Prioritize correct exercise form and clearly visible range of motion. The final frame must match the first frame for looping. Use a side three-quarter profile camera angle that clearly showcases the rigid tabletop plank alignment from ankles to crown of head, 45-degree elbow flare angle, and full depth with chest hovering an inch off the floor. Exercise: Push-Up. Follow the source exercise instructions exactly: Start in a rigid high plank position with your palms placed flat on the floor slightly wider than shoulder-width apart, fingers pointing forward, and wrists stacked directly under your shoulders with feet positioned together or hip-width apart. Engage your core, squeeze your glutes, and tuck your pelvis into a neutral line so your body forms an unwavering straight line from your heels through your hips to your head. Inhale, depress your shoulder blades, and lower your body toward the floor by bending your elbows backward at a 45-degree arrow angle to your torso, avoiding any excessive flare outwards. Descend under strict control until your chest is just one inch above the ground while keeping your neck neutral and hips level. Pause for a moment at the bottom, then exhale and press forcefully through the palms and pectorals, straightening your arms in unison to return to the high plank starting position without sagging or piking your lower back.
+
+
+=== Core ===
+
+88. Sit-Up
+Prompt: Generate a professional fitness-app exercise demonstration video. Duration: exactly 6 seconds. One continuous seamless loop showing one complete, controlled repetition from the starting position through the movement and back to the exact starting position. Full body and all relevant joints must remain visible. Static camera, full-body framing, realistic adult man, modest full-coverage athletic clothing, fully clothed in a crewneck athletic t-shirt and full-length athletic pants, athletic training shoes, clean uncluttered bright modern gym fitness setting, natural lighting, realistic anatomy and motion. No revealing clothing, no bare midriff, no exposed chest, no shorts, no sleeveless tops, no cuts, zooms, camera movement, transitions, text, labels, logos, music, voiceover, watermarks, or unnecessary objects. Prioritize correct exercise form and clearly visible range of motion. The final frame must match the first frame for looping. Use a side profile camera angle that clearly captures the flat foot placement on the mat, smooth sequential spinal curling, and upright torso elevation to a complete sit-up angle. Exercise: Sit-Up. Follow the source exercise instructions exactly: Lie flat on your back on an exercise mat with your knees bent at roughly 90 degrees and feet anchored flat on the floor hip-width apart. Place your fingertips lightly behind your head near your temples with elbows pointing outwards, ensuring your hands never pull on your neck. Inhale, brace your abdominal wall, and initiate the movement by curling your chin slightly and engaging your abs to peel your upper body off the ground vertebra by vertebra. Exhale as you roll smoothly forward and upward until your torso reaches an upright seated angle of approximately 80 to 90 degrees with a tall, proud chest and flat back near your knees. Pause for a moment at the top contraction, then inhale and slowly articulate your spine back down under eccentric abdominal tension until your back, shoulders, and head rest gently on the mat at the starting position.
+
+
+=== Conditioning ===
+
+103. Jumping Jack
+Prompt: Generate a professional fitness-app exercise demonstration video. Duration: exactly 6 seconds. One continuous seamless loop showing one complete, controlled repetition from the starting position through the movement and back to the exact starting position. Full body and all relevant joints must remain visible. Static camera, full-body framing, realistic adult man, modest full-coverage athletic clothing, fully clothed in a crewneck athletic t-shirt and full-length athletic pants, athletic training shoes, clean uncluttered bright modern gym fitness setting, natural lighting, realistic anatomy and motion. No revealing clothing, no bare midriff, no exposed chest, no shorts, no sleeveless tops, no cuts, zooms, camera movement, transitions, text, labels, logos, music, voiceover, watermarks, or unnecessary objects. Prioritize correct exercise form and clearly visible range of motion. The final frame must match the first frame for looping. Use a front straight-on camera angle that captures the symmetrical full-body abduction, wide overhead arm arc, synchronized leg spread, and rhythmic return to center. Exercise: Jumping Jack. Follow the source exercise instructions exactly: Stand tall in an upright posture with your feet together, toes pointing forward, arms resting straight at your sides, chest lifted, and core engaged. In one light and coordinated spring, push through the balls of your feet and jump slightly into the air, spreading both legs laterally outward to land softly on the balls of your feet with knees slightly unlocked, spaced shoulder-width or slightly wider apart. Simultaneously, sweep both arms laterally upward in a wide, fluid arc from your sides until your hands meet overhead with elbows straight. Immediately absorb the landing and spring lightly off the balls of your feet, jumping your legs back together while sweeping your arms smoothly back down in the reverse arc to return to the upright starting position with feet together and arms at your sides.
+
+
+================================================================================
+PART 2: METADATA JSON SNIPPETS (READY FOR MetaData.json INTEGRATION)
+================================================================================
+
+[
+  {
+    "id": 4,
+    "name": "Bodyweight Squat",
+    "group": "legs_glutes",
+    "folder": "Legs-Glutes",
+    "video_path": "Legs-Glutes/Bodyweight_Squat.mp4",
+    "equipment": "body weight",
+    "body_part": "upper legs",
+    "primary_muscles": [
+      "quadriceps",
+      "glutes"
+    ],
+    "secondary_muscles": [
+      "hamstrings",
+      "calves",
+      "core"
+    ],
+    "difficulty": "beginner",
+    "force": "push",
+    "mechanic": "compound",
+    "is_unilateral": false,
+    "tags": [
+      "squat",
+      "bodyweight",
+      "legs",
+      "beginner",
+      "no equipment"
+    ],
+    "instructions_en": "Stand with your feet shoulder-width apart, toes pointing slightly outward. Lower your body down by bending your knees and pushing your hips back as if you were sitting on a chair. Keep your chest up and your back straight throughout the movement. Lower yourself until your thighs are parallel to the ground or as low as you can comfortably go. Pause for a moment at the bottom, then push through your heels to return to the starting position. Repeat for the desired number of repetitions.",
+    "prompt": "Generate a professional fitness-app exercise demonstration video. Duration: exactly 6 seconds. One continuous seamless loop showing one complete, controlled repetition from the starting position through the movement and back to the exact starting position. Full body and all relevant joints must remain visible. Static camera, full-body framing, realistic adult man, modest full-coverage athletic clothing, fully clothed in a crewneck athletic t-shirt and full-length athletic pants, athletic training shoes, clean uncluttered bright modern gym fitness setting, natural lighting, realistic anatomy and motion. No revealing clothing, no bare midriff, no exposed chest, no shorts, no sleeveless tops, no cuts, zooms, camera movement, transitions, text, labels, logos, music, voiceover, watermarks, or unnecessary objects. Prioritize correct exercise form and clearly visible range of motion. The final frame must match the first frame for looping. Use a side three-quarter profile camera angle that clearly displays a neutral spine, upright chest, knee tracking aligned over the toes, and hip crease descending to or below knee parallel. Exercise: Bodyweight Squat. Follow the source exercise instructions exactly: Stand tall with feet shoulder-width apart and toes pointing slightly outward at roughly 15 degrees, with hands comfortably clasped at chest level for balance. Inhale and brace your core. Lower your body down by hinging backward at your hips and bending your knees simultaneously as if sitting down into a sturdy chair. Keep your chest proud, spine straight and neutral, and heels pressed firmly into the floor throughout the entire descent. Lower smoothly until your thighs are parallel to the ground or as low as full mobility allows without rounding your lower back. Pause cleanly for a moment at the bottom of the squat, then drive forcefully through your heels and midfoot, extending your knees and hips in unison to return to the tall standing starting position, squeezing your glutes at the top without hyperextending your spine."
+  },
+  {
+    "id": 19,
+    "name": "Forward Lunge",
+    "group": "legs_glutes",
+    "folder": "Legs-Glutes",
+    "video_path": "Legs-Glutes/Forward_Lunge.mp4",
+    "equipment": "body weight",
+    "body_part": "upper legs",
+    "primary_muscles": [
+      "quadriceps",
+      "glutes"
+    ],
+    "secondary_muscles": [
+      "hamstrings",
+      "calves"
+    ],
+    "difficulty": "beginner",
+    "force": "push",
+    "mechanic": "compound",
+    "is_unilateral": true,
+    "tags": [
+      "lunge",
+      "bodyweight",
+      "legs",
+      "unilateral",
+      "beginner"
+    ],
+    "instructions_en": "Stand with your feet hip-width apart and hands on your hips. Take a big step forward with your right foot, lowering your body into a lunge position. Bend your right knee to about 90 degrees, keeping your knee aligned with your ankle. Push off with your right foot and return to the starting position. Repeat with your left leg, alternating sides for the desired number of repetitions.",
+    "prompt": "Generate a professional fitness-app exercise demonstration video. Duration: exactly 6 seconds. One continuous seamless loop showing one complete, controlled repetition from the starting position through the movement and back to the exact starting position. Full body and all relevant joints must remain visible. Static camera, full-body framing, realistic adult man, modest full-coverage athletic clothing, fully clothed in a crewneck athletic t-shirt and full-length athletic pants, athletic training shoes, clean uncluttered bright modern gym fitness setting, natural lighting, realistic anatomy and motion. No revealing clothing, no bare midriff, no exposed chest, no shorts, no sleeveless tops, no cuts, zooms, camera movement, transitions, text, labels, logos, music, voiceover, watermarks, or unnecessary objects. Prioritize correct exercise form and clearly visible range of motion. The final frame must match the first frame for looping. Use a side profile camera angle that captures the precise stride length, upright vertical torso, dual 90-degree knee angles at maximum depth, and explosive single-leg push back. Exercise: Forward Lunge. Follow the source exercise instructions exactly: Stand upright and tall with feet hip-width apart and hands resting firmly on your hips. Inhale and brace your core. Take a large, deliberate step forward with your right foot, planting your front heel and midfoot flat on the floor while lowering your hips vertically downward into a lunge position. Bend your right front knee to approximately 90 degrees, keeping your knee stacked directly above your ankle and tracking in line with your toes, while your rear left knee descends until it hovers one to two inches above the ground with the left heel raised. Maintain a tall, vertical chest and square pelvis throughout the descent. Pause for a split-second at the bottom, then drive powerfully into the floor through your right front heel and midfoot to push off and return smoothly in one continuous motion to the tall standing starting position with feet together."
+  },
+  {
+    "id": 35,
+    "name": "Push-Up",
+    "group": "chest",
+    "folder": "Chest",
+    "video_path": "Chest/Push-Up.mp4",
+    "equipment": "body weight",
+    "body_part": "chest",
+    "primary_muscles": [
+      "pectorals"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "deltoids",
+      "core"
+    ],
+    "difficulty": "beginner",
+    "force": "push",
+    "mechanic": "compound",
+    "is_unilateral": false,
+    "tags": [
+      "chest",
+      "bodyweight",
+      "push up",
+      "beginner",
+      "no equipment"
+    ],
+    "instructions_en": "Start in a high plank position with your hands slightly wider than shoulder-width apart and your feet together. Engage your core and lower your body towards the ground by bending your elbows, keeping your body in a straight line. Pause for a moment when your chest is just above the ground, then push yourself back up to the starting position by straightening your arms. Repeat for the desired number of repetitions.",
+    "prompt": "Generate a professional fitness-app exercise demonstration video. Duration: exactly 6 seconds. One continuous seamless loop showing one complete, controlled repetition from the starting position through the movement and back to the exact starting position. Full body and all relevant joints must remain visible. Static camera, full-body framing, realistic adult man, modest full-coverage athletic clothing, fully clothed in a crewneck athletic t-shirt and full-length athletic pants, athletic training shoes, clean uncluttered bright modern gym fitness setting, natural lighting, realistic anatomy and motion. No revealing clothing, no bare midriff, no exposed chest, no shorts, no sleeveless tops, no cuts, zooms, camera movement, transitions, text, labels, logos, music, voiceover, watermarks, or unnecessary objects. Prioritize correct exercise form and clearly visible range of motion. The final frame must match the first frame for looping. Use a side three-quarter profile camera angle that clearly showcases the rigid tabletop plank alignment from ankles to crown of head, 45-degree elbow flare angle, and full depth with chest hovering an inch off the floor. Exercise: Push-Up. Follow the source exercise instructions exactly: Start in a rigid high plank position with your palms placed flat on the floor slightly wider than shoulder-width apart, fingers pointing forward, and wrists stacked directly under your shoulders with feet positioned together or hip-width apart. Engage your core, squeeze your glutes, and tuck your pelvis into a neutral line so your body forms an unwavering straight line from your heels through your hips to your head. Inhale, depress your shoulder blades, and lower your body toward the floor by bending your elbows backward at a 45-degree arrow angle to your torso, avoiding any excessive flare outwards. Descend under strict control until your chest is just one inch above the ground while keeping your neck neutral and hips level. Pause for a moment at the bottom, then exhale and press forcefully through the palms and pectorals, straightening your arms in unison to return to the high plank starting position without sagging or piking your lower back."
+  },
+  {
+    "id": 88,
+    "name": "Sit-Up",
+    "group": "core",
+    "folder": "Core",
+    "video_path": "Core/Sit-Up.mp4",
+    "equipment": "body weight",
+    "body_part": "waist",
+    "primary_muscles": [
+      "abs"
+    ],
+    "secondary_muscles": [
+      "hip flexors",
+      "lower back"
+    ],
+    "difficulty": "beginner",
+    "force": "pull",
+    "mechanic": "isolation",
+    "is_unilateral": false,
+    "tags": [
+      "core",
+      "bodyweight",
+      "abs",
+      "sit up",
+      "beginner"
+    ],
+    "instructions_en": "Lie flat on your back with your knees bent and feet flat on the ground. Place your hands behind your head with your elbows pointing outwards. Engaging your abs, slowly lift your upper body off the ground, curling forward until your torso is at a 45-degree angle. Pause for a moment at the top, then slowly lower your upper body back down to the starting position. Repeat for the desired number of repetitions.",
+    "prompt": "Generate a professional fitness-app exercise demonstration video. Duration: exactly 6 seconds. One continuous seamless loop showing one complete, controlled repetition from the starting position through the movement and back to the exact starting position. Full body and all relevant joints must remain visible. Static camera, full-body framing, realistic adult man, modest full-coverage athletic clothing, fully clothed in a crewneck athletic t-shirt and full-length athletic pants, athletic training shoes, clean uncluttered bright modern gym fitness setting, natural lighting, realistic anatomy and motion. No revealing clothing, no bare midriff, no exposed chest, no shorts, no sleeveless tops, no cuts, zooms, camera movement, transitions, text, labels, logos, music, voiceover, watermarks, or unnecessary objects. Prioritize correct exercise form and clearly visible range of motion. The final frame must match the first frame for looping. Use a side profile camera angle that clearly captures the flat foot placement on the mat, smooth sequential spinal curling, and upright torso elevation to a complete sit-up angle. Exercise: Sit-Up. Follow the source exercise instructions exactly: Lie flat on your back on an exercise mat with your knees bent at roughly 90 degrees and feet anchored flat on the floor hip-width apart. Place your fingertips lightly behind your head near your temples with elbows pointing outwards, ensuring your hands never pull on your neck. Inhale, brace your abdominal wall, and initiate the movement by curling your chin slightly and engaging your abs to peel your upper body off the ground vertebra by vertebra. Exhale as you roll smoothly forward and upward until your torso reaches an upright seated angle of approximately 80 to 90 degrees with a tall, proud chest and flat back near your knees. Pause for a moment at the top contraction, then inhale and slowly articulate your spine back down under eccentric abdominal tension until your back, shoulders, and head rest gently on the mat at the starting position."
+  },
+  {
+    "id": 103,
+    "name": "Jumping Jack",
+    "group": "conditioning",
+    "folder": "Conditioning",
+    "video_path": "Conditioning/Jumping_Jack.mp4",
+    "equipment": "body weight",
+    "body_part": "cardio",
+    "primary_muscles": [
+      "quadriceps",
+      "calves"
+    ],
+    "secondary_muscles": [
+      "hamstrings",
+      "shoulders"
+    ],
+    "difficulty": "beginner",
+    "force": "push",
+    "mechanic": "compound",
+    "is_unilateral": false,
+    "tags": [
+      "conditioning",
+      "cardio",
+      "bodyweight",
+      "full body",
+      "no equipment",
+      "beginner"
+    ],
+    "instructions_en": "Stand with your feet together and arms at your sides. Jump while spreading your feet shoulder-width apart and raising your arms overhead. Jump again to return to the starting position with feet together and arms at your sides. Repeat at a steady pace for the desired number of repetitions.",
+    "prompt": "Generate a professional fitness-app exercise demonstration video. Duration: exactly 6 seconds. One continuous seamless loop showing one complete, controlled repetition from the starting position through the movement and back to the exact starting position. Full body and all relevant joints must remain visible. Static camera, full-body framing, realistic adult man, modest full-coverage athletic clothing, fully clothed in a crewneck athletic t-shirt and full-length athletic pants, athletic training shoes, clean uncluttered bright modern gym fitness setting, natural lighting, realistic anatomy and motion. No revealing clothing, no bare midriff, no exposed chest, no shorts, no sleeveless tops, no cuts, zooms, camera movement, transitions, text, labels, logos, music, voiceover, watermarks, or unnecessary objects. Prioritize correct exercise form and clearly visible range of motion. The final frame must match the first frame for looping. Use a front straight-on camera angle that captures the symmetrical full-body abduction, wide overhead arm arc, synchronized leg spread, and rhythmic return to center. Exercise: Jumping Jack. Follow the source exercise instructions exactly: Stand tall in an upright posture with your feet together, toes pointing forward, arms resting straight at your sides, chest lifted, and core engaged. In one light and coordinated spring, push through the balls of your feet and jump slightly into the air, spreading both legs laterally outward to land softly on the balls of your feet with knees slightly unlocked, spaced shoulder-width or slightly wider apart. Simultaneously, sweep both arms laterally upward in a wide, fluid arc from your sides until your hands meet overhead with elbows straight. Immediately absorb the landing and spring lightly off the balls of your feet, jumping your legs back together while sweeping your arms smoothly back down in the reverse arc to return to the upright starting position with feet together and arms at your sides."
+  }
+]
