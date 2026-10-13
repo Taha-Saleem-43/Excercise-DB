@@ -25,7 +25,6 @@
 24. Hip Adduction
 25. Standing Calf Raise
 26. Seated Calf Raise
-27. Single-Leg Calf Raise
 121. Trap Bar Deadlift
 122. Single-Leg Dumbbell RDL
 123. Barbell Good Morning
@@ -69,7 +68,6 @@
 208. Wide-Grip Barbell Bench Press
 209. Svend Press
 210. Wide-Grip Push-Up
-211. Archer Push-Up
 212. Hand-Release Push-Up
 
 === Back ===
@@ -92,7 +90,6 @@
 58. Barbell Shrug
 143. Inverted Row
 144. Neutral-Grip Pull-Up
-145. Muscle-Up
 146. Pendlay Row
 147. One-Arm Landmine Row
 148. Renegade Row
