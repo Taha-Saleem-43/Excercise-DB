@@ -3,13 +3,13 @@
 <div align="center">
 
 ![Version](https://img.shields.io/badge/Version-V2-blue?style=for-the-badge)
-![Exercises](https://img.shields.io/badge/Exercises-209-green?style=for-the-badge)
+![Exercises](https://img.shields.io/badge/Exercises-181-green?style=for-the-badge)
 ![Video Quality](https://img.shields.io/badge/Videos-720p-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Custom%20(See%20Below)-red?style=for-the-badge)
 ![AI Enhanced](https://img.shields.io/badge/AI-Enhanced-purple?style=for-the-badge)
 
 **A high-quality, AI-enhanced exercise dataset built for fitness applications.**  
-209 exercises · 8 muscle groups · 720p demonstration videos · Structured metadata
+181 exercises · 8 muscle groups · 720p demonstration videos · Structured metadata
 
 </div>
 
@@ -19,11 +19,11 @@
 
 | Feature | Details |
 |---------|---------|
-| **Total Exercises** | 209 |
+| **Total Exercises** | 181 |
 | **Video Quality** | 720p (1280 × 720) — all videos |
 | **Video Format** | MP4 |
 | **Metadata Format** | JSON |
-| **Muscle Groups** | 7 (Legs/Glutes, Chest, Back, Shoulders, Biceps, Triceps, Core, Conditioning) |
+| **Muscle Groups** | 8 (Legs/Glutes, Chest, Back, Shoulders, Biceps, Triceps, Core, Conditioning) |
 | **Metadata Fields** | Name, Category, Body Part, Equipment, Muscle Group, Secondary Muscles, Target, Instructions |
 | **Language** | English |
 | **Dataset Version** | V2 (2.0) |
@@ -37,11 +37,11 @@
 | 🦵 Legs / Glutes | 48 |
 | 💪 Chest | 20 |
 | 🏋️ Back | 26 |
-| 🔝 Shoulders | 25 |
+| 🔝 Shoulders | 15 |
 | 💪 Biceps | 8 |
-| 💪 Triceps | 8 |
-| 🧘 Core | 38 |
-| ⚡ Conditioning | 36 |
+| 💪 Triceps | 6 |
+| 🧘 Core | 29 |
+| ⚡ Conditioning | 29 |
 
 ---
 
