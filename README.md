@@ -96,20 +96,20 @@ Barbell Bench Press, Dumbbell Bench Press, Incline Barbell Bench Press, Incline 
 ### Back (26)
 Pull-Up, Chin-Up, Assisted Pull-Up, Lat Pulldown, Close-Grip Lat Pulldown, Barbell Row, Dumbbell Row, Seated Cable Row, T-Bar Row, Chest-Supported Row, Machine Row, Single-Arm Cable Row, Straight-Arm Pulldown, Face Pull, Back Extension, Hyperextension, Barbell Shrug, Inverted Row, Neutral-Grip Pull-Up, Pendlay Row, One-Arm Landmine Row, Renegade Row, Cable Pullover, Cable High Row, Superman, Prone Y-T-W Raises
 
-### Shoulders (25)
-Barbell Shoulder Press, Dumbbell Shoulder Press, Arnold Press, Machine Shoulder Press, Dumbbell Lateral Raise, Cable Lateral Raise, Machine Lateral Raise, Dumbbell Front Raise, Cable Front Raise, Rear Delt Fly, Reverse Pec Deck, Upright Row, Pike Push-Up, Handstand Push-Up, Wall Handstand Hold, Dumbbell Cuban Press, Cable Reverse Fly, Cable Rear Delt Row, Band Y-Raise, Kettlebell Push Press, Machine Single-Arm Shoulder Press, Band Lateral Raise, Band Shoulder Press, Incline Rear Delt Raise, Barbell Bradford Press
+### Shoulders (15)
+Barbell Shoulder Press, Dumbbell Shoulder Press, Arnold Press, Machine Shoulder Press, Dumbbell Lateral Raise, Dumbbell Front Raise, Rear Delt Fly, Reverse Pec Deck, Upright Row, Pike Push-Up, Dumbbell Cuban Press, Cable Reverse Fly, Machine Single-Arm Shoulder Press, Incline Rear Delt Raise, Barbell Bradford Press
 
 ### Biceps (8)
 Barbell Bicep Curl, Dumbbell Bicep Curl, Hammer Curl, Incline Dumbbell Curl, Preacher Curl, Concentration Curl, Cable Bicep Curl, EZ-Bar Curl
 
-### Triceps (8)
-Cable Tricep Pushdown, Rope Tricep Pushdown, Overhead Tricep Extension, Dumbbell Overhead Extension, Skull Crusher, Close-Grip Bench Press, Tricep Dips, Dumbbell Tricep Kickback
+### Triceps (6)
+Rope Tricep Pushdown, Overhead Tricep Extension, Dumbbell Overhead Extension, Skull Crusher, Close-Grip Bench Press, Dumbbell Tricep Kickback
 
-### Core (38)
-Crunch, Sit-Up, Plank, Side Plank, Reverse Crunch, Bicycle Crunch, Russian Twist, Leg Raise, Hanging Leg Raise, Knee Raise, Mountain Climber, Cable Crunch, Ab Wheel Rollout, Dead Bug, Bird Dog, V-Up, Dumbbell Side Bend, Cable Woodchopper, Cable Seated Twist, Pallof Press, Machine Crunch, Kettlebell Windmill, Cross-Body Crunch, Jackknife Sit-Up, Alternate Heel Touches, Captain's Chair Leg Raise, Cocoon Crunch, Decline Sit-Up, Forearm Plank Pike, Flutter Kicks, Scissor Kicks, Hollow Body Hold, Plank Shoulder Taps, Side Plank Hip Dips, Commando Plank, Spiderman Plank, Reverse Plank, Bear Plank Hold
+### Core (29)
+Crunch, Sit-Up, Plank, Side Plank, Reverse Crunch, Russian Twist, Leg Raise, Hanging Leg Raise, Knee Raise, Mountain Climber, Ab Wheel Rollout, Bird Dog, V-Up, Cable Woodchopper, Cable Seated Twist, Pallof Press, Machine Crunch, Kettlebell Windmill, Jackknife Sit-Up, Captain's Chair Leg Raise, Decline Sit-Up, Flutter Kicks, Scissor Kicks, Hollow Body Hold, Side Plank Hip Dips, Commando Plank, Spiderman Plank, Reverse Plank, Bear Plank Hold
 
-### Conditioning (36)
-Jumping Jack, Burpee, High Knees, Butt Kicks, Jump Squat, Skater, Box Jump, Jump Rope, Bear Crawl, Bodyweight Lateral Lunge, Kettlebell Swing, Kettlebell Goblet Squat, Kettlebell Deadlift, Kettlebell Clean, Kettlebell Shoulder Press, Battle Rope, Farmer's Walk, Sled Push, Barbell Thruster, Dumbbell Snatch, Kettlebell Snatch, Kettlebell Clean and Jerk, Turkish Get-Up, Tire Flip, Medicine Ball Slam, Broad Jump, Star Jump, Jumping Lunge, Incline Treadmill Walk, Stationary Bike, Rope Climb, Sprawl, Plank Jacks, Step Jacks, Shadow Boxing, Inchworm
+### Conditioning (29)
+Jumping Jack, High Knees, Jump Squat, Skater, Box Jump, Jump Rope, Bear Crawl, Bodyweight Lateral Lunge, Kettlebell Swing, Kettlebell Goblet Squat, Kettlebell Deadlift, Kettlebell Clean, Kettlebell Shoulder Press, Battle Rope, Sled Push, Barbell Thruster, Dumbbell Snatch, Kettlebell Snatch, Kettlebell Clean and Jerk, Turkish Get-Up, Tire Flip, Medicine Ball Slam, Star Jump, Jumping Lunge, Incline Treadmill Walk, Stationary Bike, Sprawl, Shadow Boxing, Inchworm
 
 </details>
 
