@@ -3,7 +3,7 @@
     "version": "2.0",
     "schema_version": "2.0",
     "generated_at": "2026-09-09",
-    "count": 181,
+    "count": 207,
     "groups": [
         "back",
         "biceps",
@@ -1763,6 +1763,60 @@
             "instructions_en": "Stand with your feet shoulder-width apart and hold a dumbbell in each hand, palms facing your body. Keep your back straight and engage your core. Raise your arms out to the sides until they are parallel to the floor, keeping a slight bend in your elbows. Pause for a moment at the top, then slowly lower your arms back down to the starting position. Repeat for the desired number of repetitions."
         },
         {
+            "id": 64,
+            "name": "Cable Lateral Raise",
+            "group": "shoulders",
+            "folder": "Shoulders",
+            "video_path": "Shoulders/Cable_Lateral_Raise.mp4",
+            "equipment": "cable",
+            "body_part": "shoulders",
+            "primary_muscles": [
+                "deltoids"
+            ],
+            "secondary_muscles": [
+                "trapezius"
+            ],
+            "difficulty": "beginner",
+            "force": "push",
+            "mechanic": "isolation",
+            "is_unilateral": true,
+            "tags": [
+                "shoulders",
+                "cable",
+                "lateral raise",
+                "isolation",
+                "side delts"
+            ],
+            "instructions_en": "Stand with your feet shoulder-width apart and grasp the cable handles with an overhand grip. Keep your arms straight and your core engaged. Raise your arms out to the sides until they are parallel to the floor. Pause for a moment at the top, then slowly lower your arms back down to the starting position. Repeat for the desired number of repetitions."
+        },
+        {
+            "id": 65,
+            "name": "Machine Lateral Raise",
+            "group": "shoulders",
+            "folder": "Shoulders",
+            "video_path": "Shoulders/Machine_Lateral_Raise.mp4",
+            "equipment": "leverage machine",
+            "body_part": "shoulders",
+            "primary_muscles": [
+                "deltoids"
+            ],
+            "secondary_muscles": [
+                "trapezius"
+            ],
+            "difficulty": "beginner",
+            "force": "push",
+            "mechanic": "isolation",
+            "is_unilateral": false,
+            "tags": [
+                "shoulders",
+                "machine",
+                "lateral raise",
+                "isolation",
+                "beginner"
+            ],
+            "instructions_en": "Adjust the seat height and position yourself on the machine with your back against the pad. Grasp the handles with an overhand grip and keep your arms straight. Exhale and raise your arms out to the sides until they are parallel to the floor. Pause for a moment at the top, then inhale and slowly lower your arms back to the starting position. Repeat for the desired number of repetitions."
+        },
+        {
             "id": 66,
             "name": "Dumbbell Front Raise",
             "group": "shoulders",
@@ -2092,6 +2146,33 @@
             "instructions_en": "Stand up straight with your feet shoulder-width apart and hold the ez barbell with an underhand grip, palms facing up. Keep your elbows close to your torso and your upper arms stationary throughout the movement. Exhale as you curl the barbell up towards your shoulders, contracting your biceps. Pause for a moment at the top, then inhale as you slowly lower the barbell back down to the starting position. Repeat for the desired number of repetitions."
         },
         {
+            "id": 79,
+            "name": "Cable Tricep Pushdown",
+            "group": "triceps",
+            "folder": "Triceps",
+            "video_path": "Triceps/Cable_Tricep_Pushdown.mp4",
+            "equipment": "cable",
+            "body_part": "upper arms",
+            "primary_muscles": [
+                "triceps"
+            ],
+            "secondary_muscles": [
+                "forearms"
+            ],
+            "difficulty": "beginner",
+            "force": "push",
+            "mechanic": "isolation",
+            "is_unilateral": false,
+            "tags": [
+                "triceps",
+                "cable",
+                "pushdown",
+                "isolation",
+                "beginner"
+            ],
+            "instructions_en": "Attach a straight bar to a high pulley cable machine. Stand facing the machine with your feet shoulder-width apart and a slight bend in your knees. Grasp the bar with an overhand grip, hands shoulder-width apart. Keep your elbows close to your sides and your upper arms stationary. Exhale and push the bar down until your elbows are fully extended. Pause for a moment, then inhale and slowly return the bar to the starting position. Repeat for the desired number of repetitions."
+        },
+        {
             "id": 80,
             "name": "Rope Tricep Pushdown",
             "group": "triceps",
@@ -2226,6 +2307,34 @@
                 "close grip"
             ],
             "instructions_en": "Adjust the bench on the smith machine to a decline position. Lie down on the bench with your feet firmly planted on the ground. Grasp the barbell with a close grip, slightly narrower than shoulder-width apart. Unrack the barbell and lower it slowly towards your chest, keeping your elbows close to your body. Pause for a moment when the barbell is just above your chest. Push the barbell back up to the starting position, fully extending your arms. Repeat for the desired number of repetitions."
+        },
+        {
+            "id": 85,
+            "name": "Tricep Dips",
+            "group": "triceps",
+            "folder": "Triceps",
+            "video_path": "Triceps/Tricep_Dips.mp4",
+            "equipment": "body weight",
+            "body_part": "upper arms",
+            "primary_muscles": [
+                "triceps"
+            ],
+            "secondary_muscles": [
+                "pectorals",
+                "deltoids"
+            ],
+            "difficulty": "beginner",
+            "force": "push",
+            "mechanic": "compound",
+            "is_unilateral": false,
+            "tags": [
+                "triceps",
+                "bodyweight",
+                "dips",
+                "compound",
+                "beginner"
+            ],
+            "instructions_en": "Sit on the edge of a bench or chair with your hands gripping the edge, fingers pointing forward. Slide your butt off the bench, supporting your weight with your hands. Bend your elbows and lower your body towards the ground, keeping your back close to the bench. Pause for a moment at the bottom, then push yourself back up to the starting position. Repeat for the desired number of repetitions."
         },
         {
             "id": 86,
@@ -2395,6 +2504,34 @@
             "instructions_en": "Lie flat on your back with your arms extended along your sides. Bend your knees and lift your feet off the ground, bringing your thighs perpendicular to the floor. Contract your abs and curl your hips off the floor, bringing your knees towards your chest. Pause for a moment at the top, then slowly lower your hips back down to the starting position. Repeat for the desired number of repetitions."
         },
         {
+            "id": 92,
+            "name": "Bicycle Crunch",
+            "group": "core",
+            "folder": "Core",
+            "video_path": "Core/Bicycle_Crunch.mp4",
+            "equipment": "body weight",
+            "body_part": "waist",
+            "primary_muscles": [
+                "abs",
+                "obliques"
+            ],
+            "secondary_muscles": [
+                "hip flexors"
+            ],
+            "difficulty": "beginner",
+            "force": "pull",
+            "mechanic": "isolation",
+            "is_unilateral": false,
+            "tags": [
+                "core",
+                "bodyweight",
+                "abs",
+                "obliques",
+                "beginner"
+            ],
+            "instructions_en": "Lie flat on your back with your hands behind your head and your knees bent. Lift your feet off the ground and bring your right knee towards your chest while simultaneously twisting your torso to bring your left elbow towards your right knee. Straighten your right leg while bringing your left knee towards your chest and twisting your torso to bring your right elbow towards your left knee. Continue alternating the twisting motion, as if you are pedaling a bicycle, while keeping your core engaged throughout the movement. Repeat for the desired number of repetitions."
+        },
+        {
             "id": 93,
             "name": "Russian Twist",
             "group": "core",
@@ -2536,6 +2673,33 @@
             "instructions_en": "Start in a high plank position with your hands directly under your shoulders and your body in a straight line. Engage your core and bring your right knee towards your chest, then quickly switch and bring your left knee towards your chest. Continue alternating legs in a running motion, keeping your hips low and your core engaged. Maintain a steady pace and breathe evenly throughout the exercise. Repeat for the desired number of repetitions."
         },
         {
+            "id": 98,
+            "name": "Cable Crunch",
+            "group": "core",
+            "folder": "Core",
+            "video_path": "Core/Cable_Crunch.mp4",
+            "equipment": "cable",
+            "body_part": "waist",
+            "primary_muscles": [
+                "abs"
+            ],
+            "secondary_muscles": [
+                "obliques"
+            ],
+            "difficulty": "beginner",
+            "force": "pull",
+            "mechanic": "isolation",
+            "is_unilateral": false,
+            "tags": [
+                "core",
+                "cable",
+                "abs",
+                "crunch",
+                "weighted"
+            ],
+            "instructions_en": "Sit on a cable machine with your feet flat on the ground and your knees bent. Hold the cable handle with both hands and position it behind your head. Engage your abs and slowly curl your upper body forward, bringing your chest towards your knees. Pause for a moment at the top, then slowly return to the starting position. Repeat for the desired number of repetitions."
+        },
+        {
             "id": 99,
             "name": "Ab Wheel Rollout",
             "group": "core",
@@ -2564,6 +2728,35 @@
                 "stability"
             ],
             "instructions_en": "Kneel on the floor and place the wheel roller in front of you. Place your hands on the handles of the wheel roller and extend your arms straight out in front of you. Engage your core muscles and slowly roll the wheel forward, keeping your back straight and your abs tight. Continue rolling forward until your body is fully extended and your arms are overhead. Pause for a moment, then slowly roll the wheel back towards your knees, maintaining control and keeping your abs engaged. Repeat for the desired number of repetitions."
+        },
+        {
+            "id": 100,
+            "name": "Dead Bug",
+            "group": "core",
+            "folder": "Core",
+            "video_path": "Core/Dead_Bug.mp4",
+            "equipment": "body weight",
+            "body_part": "waist",
+            "primary_muscles": [
+                "abs",
+                "core"
+            ],
+            "secondary_muscles": [
+                "hip flexors",
+                "lower back"
+            ],
+            "difficulty": "beginner",
+            "force": "static",
+            "mechanic": "isolation",
+            "is_unilateral": false,
+            "tags": [
+                "core",
+                "bodyweight",
+                "abs",
+                "stability",
+                "beginner"
+            ],
+            "instructions_en": "Lie flat on your back with your arms extended towards the ceiling. Bend your knees and lift your legs off the ground, creating a 90-degree angle at your hips and knees. Engage your core and lower back to press your lower back into the ground. Slowly lower your right arm and left leg towards the ground, keeping them straight and hovering just above the floor. Pause for a moment, then return to the starting position. Repeat the movement with your left arm and right leg. Continue alternating sides for the desired number of repetitions."
         },
         {
             "id": 101,
@@ -2652,6 +2845,37 @@
             "instructions_en": "Stand with your feet together and arms at your sides. Jump while spreading your feet shoulder-width apart and raising your arms overhead. Jump again to return to the starting position with feet together and arms at your sides. Repeat at a steady pace for the desired number of repetitions."
         },
         {
+            "id": 104,
+            "name": "Burpee",
+            "group": "conditioning",
+            "folder": "Conditioning",
+            "video_path": "Conditioning/Burpee.mp4",
+            "equipment": "body weight",
+            "body_part": "cardio",
+            "primary_muscles": [
+                "quadriceps",
+                "pectorals"
+            ],
+            "secondary_muscles": [
+                "hamstrings",
+                "shoulders",
+                "core",
+                "triceps"
+            ],
+            "difficulty": "intermediate",
+            "force": "push",
+            "mechanic": "compound",
+            "is_unilateral": false,
+            "tags": [
+                "conditioning",
+                "cardio",
+                "bodyweight",
+                "full body",
+                "no equipment"
+            ],
+            "instructions_en": "Start in a standing position with your feet shoulder-width apart. Lower your body into a squat position by bending your knees and placing your hands on the floor in front of you. Kick your feet back into a push-up position. Perform a push-up, keeping your body in a straight line. Jump your feet back into the squat position. Jump up explosively, reaching your arms overhead. Land softly and immediately lower back into a squat position to begin the next repetition."
+        },
+        {
             "id": 105,
             "name": "High Knees",
             "group": "conditioning",
@@ -2680,6 +2904,36 @@
                 "beginner"
             ],
             "instructions_en": "Stand with your feet hip-width apart. Run in place, driving your knees up towards your chest as high as possible with each step. Pump your arms in opposition to your legs. Maintain a fast pace and keep your upper body stable throughout the exercise. Repeat for the desired duration or number of repetitions."
+        },
+        {
+            "id": 106,
+            "name": "Butt Kicks",
+            "group": "conditioning",
+            "folder": "Conditioning",
+            "video_path": "Conditioning/Butt_Kicks.mp4",
+            "equipment": "body weight",
+            "body_part": "cardio",
+            "primary_muscles": [
+                "hamstrings",
+                "glutes"
+            ],
+            "secondary_muscles": [
+                "calves",
+                "hip flexors"
+            ],
+            "difficulty": "beginner",
+            "force": "pull",
+            "mechanic": "compound",
+            "is_unilateral": false,
+            "tags": [
+                "conditioning",
+                "cardio",
+                "bodyweight",
+                "hamstrings",
+                "no equipment",
+                "beginner"
+            ],
+            "instructions_en": "Stand with your feet hip-width apart. Run in place, kicking your heels up towards your glutes with each step, trying to touch your heel to your butt. Keep your core engaged and your upper body upright. Pump your arms in a running motion. Continue at a brisk pace for the desired duration or number of repetitions."
         },
         {
             "id": 107,
@@ -3037,6 +3291,37 @@
                 "endurance"
             ],
             "instructions_en": "Stand with your feet shoulder-width apart and knees slightly bent. Hold one end of the rope in each hand, with your palms facing each other. Raise your arms to shoulder height, keeping your elbows slightly bent. Begin making alternating waves with the ropes by rapidly raising and lowering each arm. Continue for the desired duration or number of repetitions."
+        },
+        {
+            "id": 119,
+            "name": "Farmer's Walk",
+            "group": "conditioning",
+            "folder": "Conditioning",
+            "video_path": "Conditioning/Farmers_Walk.mp4",
+            "equipment": "dumbbell",
+            "body_part": "upper legs",
+            "primary_muscles": [
+                "forearms",
+                "trapezius"
+            ],
+            "secondary_muscles": [
+                "calves",
+                "core",
+                "quadriceps",
+                "glutes"
+            ],
+            "difficulty": "beginner",
+            "force": "carry",
+            "mechanic": "compound",
+            "is_unilateral": false,
+            "tags": [
+                "conditioning",
+                "dumbbell",
+                "carry",
+                "grip",
+                "full body"
+            ],
+            "instructions_en": "Stand up straight with a dumbbell in each hand, palms facing your sides. Keep your back straight and your shoulders back. Take small, controlled steps forward, maintaining an upright posture. Continue walking for the desired distance or time. To finish, stop walking and carefully lower the dumbbells to your sides."
         },
         {
             "id": 120,
@@ -3963,6 +4248,33 @@
             "instructions_en": "Lie face down on a mat with your forehead resting lightly down to keep the neck neutral. Extend your arms overhead at a 45-degree angle in a Y-shape with thumbs pointed toward the ceiling. Squeeze your shoulder blades together to lift your arms and upper chest off the floor, holding for a second before lowering. Next, bring arms directly out to the sides into a T-shape, lifting thumbs up. Finally, bend your elbows into your ribs forming a W-shape, retracting the scaps hard before lowering back to the mat."
         },
         {
+            "id": 153,
+            "name": "Dumbbell Side Bend",
+            "group": "core",
+            "folder": "Core",
+            "video_path": "Core/Dumbbell_Side_Bend.mp4",
+            "equipment": "dumbbell",
+            "body_part": "waist",
+            "primary_muscles": [
+                "obliques"
+            ],
+            "secondary_muscles": [
+                "abdominals",
+                "lower back"
+            ],
+            "difficulty": "beginner",
+            "force": "pull",
+            "mechanic": "isolation",
+            "is_unilateral": true,
+            "tags": [
+                "dumbbell",
+                "obliques",
+                "side bend",
+                "waist"
+            ],
+            "instructions_en": "Stand tall with feet hip-width apart holding a dumbbell in your right hand at your side with palm facing inward, placing your left hand lightly behind your head or resting on your left hip. Keep your shoulders back, chest proud, and hips squared forward. Slowly bend your torso laterally to the right side, lowering the dumbbell down along the outside of your right leg toward your knee while keeping your hips stationary. Once you feel a deep stretch along your left obliques, forcefully contract your left obliques to pull your torso back upright to the vertical center, continuing slightly past center for a full contraction, then lower under control."
+        },
+        {
             "id": 154,
             "name": "Cable Woodchopper",
             "group": "core",
@@ -4129,6 +4441,32 @@
             "instructions_en": "Lie completely flat on your back on an exercise mat with legs straight, ankles together, and arms extended overhead on the floor. Inhale, brace your core, and simultaneously lift your straight legs and upper torso off the floor in a synchronized explosive motion, pivoting on your sit bones to create a sharp V-shape with your body. Reach your hands forward toward your toes or shins at the peak of the movement, pausing for a split-second balance on your glutes, then slowly lower your torso and straight legs back down under strict control to hover just above the mat."
         },
         {
+            "id": 161,
+            "name": "Alternate Heel Touches",
+            "group": "core",
+            "folder": "Core",
+            "video_path": "Core/Alternate_Heel_Touches.mp4",
+            "equipment": "body weight",
+            "body_part": "waist",
+            "primary_muscles": [
+                "obliques"
+            ],
+            "secondary_muscles": [
+                "abdominals"
+            ],
+            "difficulty": "beginner",
+            "force": "pull",
+            "mechanic": "isolation",
+            "is_unilateral": false,
+            "tags": [
+                "heel touches",
+                "obliques",
+                "bodyweight",
+                "core"
+            ],
+            "instructions_en": "Lie supine on a mat with knees bent and feet flat on the floor hip-width apart, placed a few inches from your glutes. Curl your head, neck, and shoulder blades slightly off the floor into a constant isometric crunch with arms extended straight along your sides, palms facing inward. Contract your right oblique to laterally bend your torso to the right, sliding your right fingertips to touch your right heel. Fluidly reverse direction, sliding back through center to contract your left oblique and touch your left heel with your left fingertips, maintaining steady breathing and continuous core tension."
+        },
+        {
             "id": 162,
             "name": "Captain's Chair Leg Raise",
             "group": "core",
@@ -4156,6 +4494,33 @@
             "instructions_en": "Step into a captain's chair station, resting your forearms flat on the padded arm supports and gripping the handles firmly. Press your back flat against the lumbar support pad and let your legs hang straight down with ankles together. Inhale and brace your core. Keeping your legs straight (or with a slight micro-bend) and toes pointed, contract your lower abdominals to lift your legs straight up in front of you until they are parallel to the floor at a 90-degree angle. Pause at the top of the raise without swinging or using momentum, then lower your legs slowly back down to the starting vertical hang."
         },
         {
+            "id": 163,
+            "name": "Cocoon Crunch",
+            "group": "core",
+            "folder": "Core",
+            "video_path": "Core/Cocoon_Crunch.mp4",
+            "equipment": "body weight",
+            "body_part": "waist",
+            "primary_muscles": [
+                "abdominals"
+            ],
+            "secondary_muscles": [
+                "hip flexors",
+                "obliques"
+            ],
+            "difficulty": "intermediate",
+            "force": "pull",
+            "mechanic": "compound",
+            "is_unilateral": false,
+            "tags": [
+                "cocoon crunch",
+                "abdominals",
+                "bodyweight",
+                "core"
+            ],
+            "instructions_en": "Lie flat on your back on an exercise mat with legs extended straight out and arms stretched overhead. Inhale and brace your abdominals. In a simultaneous movement, lift your shoulder blades and straight legs off the floor, curling your torso upward while pulling your knees into your chest and wrapping your arms around your shins, collapsing into a tight, compact cocoon ball. Squeeze your abdominals at peak contraction for a brief pause, then slowly release and extend your legs and arms back out straight until they hover an inch above the mat."
+        },
+        {
             "id": 164,
             "name": "Decline Sit-Up",
             "group": "core",
@@ -4180,6 +4545,34 @@
                 "core"
             ],
             "instructions_en": "Secure your feet and ankles snugly beneath the padded rollers at the top of a decline abdominal bench, sitting with your torso upright. Cross your arms over your chest or place your hands lightly beside your ears. Inhale and slowly lower your torso backward down the decline bench, unrolling your spine under control until your back lightly touches the pad. Exhale and contract your abdominals, curling your torso upward through a complete range of motion until your body reaches a fully upright seated angle perpendicular to the bench. Squeeze your abs at the top, then lower slowly back down."
+        },
+        {
+            "id": 165,
+            "name": "Forearm Plank Pike",
+            "group": "core",
+            "folder": "Core",
+            "video_path": "Core/Forearm_Plank_Pike.mp4",
+            "equipment": "body weight",
+            "body_part": "waist",
+            "primary_muscles": [
+                "abdominals"
+            ],
+            "secondary_muscles": [
+                "shoulders",
+                "hamstrings",
+                "calves"
+            ],
+            "difficulty": "intermediate",
+            "force": "pull",
+            "mechanic": "compound",
+            "is_unilateral": false,
+            "tags": [
+                "plank pike",
+                "abdominals",
+                "bodyweight",
+                "core"
+            ],
+            "instructions_en": "Assume a standard forearm plank position with elbows directly under shoulders, forearms flat on the mat, and body in a rigid straight line from head to heels. Brace your core. Engaging your lower abdominals and hip flexors, lift your hips straight up toward the ceiling, rolling onto the tips of your toes to pull your pelvis upward into an inverted V-shape pike position. Keep your legs straight and forearms anchored firmly into the mat. Pause at peak hip elevation, then slowly lower your hips back down in a controlled line until you return to the flat forearm plank starting position."
         },
         {
             "id": 166,
@@ -4264,6 +4657,34 @@
                 "bodyweight"
             ],
             "instructions_en": "Lie flat on your back with legs straight, toes pointed, and arms extended overhead alongside your ears. Press your lower back completely flat against the mat by engaging your abdominals and tilting your pelvis posteriorly. Simultaneously lift your shoulder blades, head, and straight legs 4 to 6 inches off the floor, creating a continuous curved, boat-like shape with your body. Hold this tension solidly with arms and legs locked out before gently releasing down."
+        },
+        {
+            "id": 169,
+            "name": "Plank Shoulder Taps",
+            "group": "core",
+            "folder": "Core",
+            "video_path": "Core/Plank_Shoulder_Taps.mp4",
+            "equipment": "body weight",
+            "body_part": "waist",
+            "primary_muscles": [
+                "abdominals",
+                "obliques"
+            ],
+            "secondary_muscles": [
+                "shoulders",
+                "chest"
+            ],
+            "difficulty": "intermediate",
+            "force": "static",
+            "mechanic": "compound",
+            "is_unilateral": true,
+            "tags": [
+                "plank taps",
+                "anti-rotational",
+                "core",
+                "bodyweight"
+            ],
+            "instructions_en": "Start in a strong high plank with hands directly beneath your shoulders and feet slightly wider than hip-width apart to establish a stable base. Brace your core and squeeze your glutes. Lift your right hand off the mat and tap your left shoulder, keeping your hips and torso completely square to the floor without rocking side-to-side. Place the right hand back down, then lift the left hand to tap the right shoulder before returning to the balanced plank."
         },
         {
             "id": 170,
@@ -4625,6 +5046,35 @@
             "instructions_en": "Stand tall with feet shoulder-width apart, holding a non-bouncing medicine ball with both hands at chest level. Inhale and raise the ball straight overhead, extending your hips, knees, and ankles onto the balls of your feet in full triple extension. In an explosive downward motion, engage your core and lats to forcefully throw and slam the medicine ball down into the floor directly in front of your feet, bending your knees and hinging your hips into an athletic squat. Catch the ball on its slight bounce or pick it up cleanly, returning smoothly to the overhead position."
         },
         {
+            "id": 182,
+            "name": "Broad Jump",
+            "group": "conditioning",
+            "folder": "Conditioning",
+            "video_path": "Conditioning/Broad_Jump.mp4",
+            "equipment": "body weight",
+            "body_part": "cardio",
+            "primary_muscles": [
+                "quadriceps",
+                "glutes"
+            ],
+            "secondary_muscles": [
+                "calves",
+                "hamstrings",
+                "core"
+            ],
+            "difficulty": "intermediate",
+            "force": "push",
+            "mechanic": "compound",
+            "is_unilateral": false,
+            "tags": [
+                "broad jump",
+                "plyometrics",
+                "explosive",
+                "bodyweight"
+            ],
+            "instructions_en": "Stand tall with feet shoulder-width apart and arms at your sides. Swing your arms backward while hinging at your hips and bending your knees into a loaded athletic quarter-squat. Explosively swing your arms forward and upward while driving forcefully off the floor with both feet, propelling your body horizontally forward through the air. Extend your hips fully in flight, then bring your knees forward and land softly on both feet simultaneously, absorbing the landing forces smoothly into an athletic quarter-squat with chest proud before standing upright."
+        },
+        {
             "id": 183,
             "name": "Star Jump",
             "group": "conditioning",
@@ -4740,6 +5190,37 @@
             "instructions_en": "Sit upright on a stationary fitness exercise bike with the saddle adjusted to hip height so there is a slight, comfortable bend (roughly 25 to 30 degrees) in your knee at the bottom of the pedal stroke. Secure the balls of your feet into the pedal straps. Grasp the handlebars with a relaxed, neutral grip and keep your chest open with shoulders relaxed away from your ears. Pedal smoothly in continuous, fluid 360-degree circles, applying even pressure throughout both the downstroke and upstroke while maintaining a steady, rhythmic cadence."
         },
         {
+            "id": 187,
+            "name": "Rope Climb",
+            "group": "conditioning",
+            "folder": "Conditioning",
+            "video_path": "Conditioning/Rope_Climb.mp4",
+            "equipment": "rope",
+            "body_part": "cardio",
+            "primary_muscles": [
+                "lats",
+                "biceps",
+                "forearms"
+            ],
+            "secondary_muscles": [
+                "core",
+                "rhomboids",
+                "shoulders"
+            ],
+            "difficulty": "advanced",
+            "force": "pull",
+            "mechanic": "compound",
+            "is_unilateral": false,
+            "tags": [
+                "rope climb",
+                "grip",
+                "back",
+                "biceps",
+                "bodyweight"
+            ],
+            "instructions_en": "Stand tall at the base of a heavy suspended climbing rope. Reach high overhead with both hands staggered along the rope in a firm overhand grip. Jump up slightly and clamp the rope securely between your feet using a J-hook or S-wrap foot wrap technique, locking the rope between your instep and opposite shoe sole. Stand up straight on your feet to extend your knees and hips, bearing your weight through your legs. Reach your hands higher one at a time, re-clamp your feet higher, and ascend smoothly before reversing your foot clamp and hand steps to descend under strict control."
+        },
+        {
             "id": 188,
             "name": "Sprawl",
             "group": "conditioning",
@@ -4768,6 +5249,63 @@
                 "bodyweight"
             ],
             "instructions_en": "Stand with feet slightly wider than shoulder-width apart. Drop your hips quickly, bend your knees, and place both hands flat on the floor inside your feet. Jump both feet back into a wide high plank position, momentarily dropping your hips slightly with core braced (without letting chest touch the floor). Immediately spring both feet back forward outside your hands into a low squat, lift your hands, and stand tall into your starting athletic ready position."
+        },
+        {
+            "id": 189,
+            "name": "Plank Jacks",
+            "group": "conditioning",
+            "folder": "Conditioning",
+            "video_path": "Conditioning/Plank_Jacks.mp4",
+            "equipment": "body weight",
+            "body_part": "cardio",
+            "primary_muscles": [
+                "abdominals",
+                "glutes"
+            ],
+            "secondary_muscles": [
+                "shoulders",
+                "calves",
+                "adductors"
+            ],
+            "difficulty": "beginner",
+            "force": "static",
+            "mechanic": "compound",
+            "is_unilateral": false,
+            "tags": [
+                "plank jacks",
+                "core",
+                "cardio",
+                "bodyweight"
+            ],
+            "instructions_en": "Start in a standard high plank with wrists directly beneath shoulders and feet together. Keep your core tight and back flat. Jump both feet outward to shoulder-width apart or wider, landing lightly on the balls of your feet, just like the leg motion of a jumping jack. Immediately jump both feet back together to the center, absorbing the impact softly without bouncing your hips up or letting your lower back sag."
+        },
+        {
+            "id": 190,
+            "name": "Step Jacks",
+            "group": "conditioning",
+            "folder": "Conditioning",
+            "video_path": "Conditioning/Step_Jacks.mp4",
+            "equipment": "body weight",
+            "body_part": "cardio",
+            "primary_muscles": [
+                "calves",
+                "shoulders"
+            ],
+            "secondary_muscles": [
+                "glutes",
+                "quadriceps"
+            ],
+            "difficulty": "beginner",
+            "force": "push",
+            "mechanic": "compound",
+            "is_unilateral": false,
+            "tags": [
+                "step jacks",
+                "low impact",
+                "cardio",
+                "bodyweight"
+            ],
+            "instructions_en": "Stand tall with feet together and arms at your sides. Step your right foot wide out to the side while simultaneously raising both arms out to the sides and overhead until your hands meet. Tap the ball of your right foot on the floor, then step your right foot back to center as you lower your arms. Immediately repeat by stepping your left foot out wide and raising your arms overhead, maintaining a steady, low-impact rhythm."
         },
         {
             "id": 191,
@@ -4859,6 +5397,66 @@
             "instructions_en": "Start in a standard high plank push-up position, then walk your feet forward toward your hands and elevate your hips high into the air, creating a sharp inverted V-shape with straight arms and legs. Shift your body weight forward onto your hands so your shoulders are stacked over your wrists. Inhale, bend your elbows backward at a 45-degree angle to your torso, and lower the crown of your head diagonally forward toward the floor until it lightly grazes the ground just ahead of your fingertips. Press forcefully through your palms and anterior deltoids to push back upward along the same diagonal path into the high pike starting position."
         },
         {
+            "id": 194,
+            "name": "Handstand Push-Up",
+            "group": "shoulders",
+            "folder": "Shoulders",
+            "video_path": "Shoulders/Handstand_Push-Up.mp4",
+            "equipment": "body weight",
+            "body_part": "shoulders",
+            "primary_muscles": [
+                "anterior deltoid",
+                "lateral deltoid",
+                "triceps"
+            ],
+            "secondary_muscles": [
+                "traps",
+                "upper chest",
+                "core"
+            ],
+            "difficulty": "advanced",
+            "force": "push",
+            "mechanic": "compound",
+            "is_unilateral": false,
+            "tags": [
+                "handstand push-up",
+                "calisthenics",
+                "shoulders",
+                "advanced",
+                "bodyweight"
+            ],
+            "instructions_en": "Kick up into a full vertical handstand against a flat wall, placing your hands shoulder-width apart approximately 6 to 8 inches from the wall, with fingers spread and core rigid. Begin with arms locked out completely, body straight, and heels lightly touching the wall. Slowly bend your elbows backward at a 45-degree angle, lowering your body under strict control until the top of your head gently touches an abmat or the floor. Press forcefully through your palms and shoulders, driving your body straight back up the wall until your arms are fully extended in the locked-out handstand starting position."
+        },
+        {
+            "id": 195,
+            "name": "Wall Handstand Hold",
+            "group": "shoulders",
+            "folder": "Shoulders",
+            "video_path": "Shoulders/Wall_Handstand_Hold.mp4",
+            "equipment": "body weight",
+            "body_part": "shoulders",
+            "primary_muscles": [
+                "shoulders",
+                "traps"
+            ],
+            "secondary_muscles": [
+                "core",
+                "triceps",
+                "serratus anterior"
+            ],
+            "difficulty": "intermediate",
+            "force": "static",
+            "mechanic": "compound",
+            "is_unilateral": false,
+            "tags": [
+                "handstand",
+                "isometric",
+                "shoulder stability",
+                "bodyweight"
+            ],
+            "instructions_en": "Kick up into a solid handstand with your heels resting lightly against a sturdy wall (or walk up into a chest-to-wall handstand). Place your hands firmly on the floor shoulder-width apart, fingers gripping the mat. Lock your elbows out fully, press your shoulders actively upward toward your ears (scapular elevation), and brace your core and glutes to eliminate any excessive banana arch in your lower back. Hold this rock-solid, motionless isometric inverted handstand position steadily with calm breathing, then step your feet down smoothly under control."
+        },
+        {
             "id": 196,
             "name": "Dumbbell Cuban Press",
             "group": "shoulders",
@@ -4914,6 +5512,93 @@
             "instructions_en": "Set the pulleys of a dual-cable crossover machine at upper chest/shoulder height without handles. Stand centered facing the machine. Grasp the left cable with your right hand and the right cable with your left hand so the cables cross in front of you. Take a step back to create tension, extending your arms straight forward at shoulder height with a soft micro-bend in your elbows. Keeping your arms in that horizontal plane, pull your hands outward and backward in a wide horizontal arc until your hands are level with your shoulders. Squeeze your rear deltoids hard, then slowly control the cables back to the starting crossed position."
         },
         {
+            "id": 198,
+            "name": "Cable Rear Delt Row",
+            "group": "shoulders",
+            "folder": "Shoulders",
+            "video_path": "Shoulders/Cable_Rear_Delt_Row.mp4",
+            "equipment": "cable",
+            "body_part": "shoulders",
+            "primary_muscles": [
+                "posterior deltoid",
+                "rhomboids"
+            ],
+            "secondary_muscles": [
+                "biceps",
+                "traps",
+                "lats"
+            ],
+            "difficulty": "intermediate",
+            "force": "pull",
+            "mechanic": "compound",
+            "is_unilateral": false,
+            "tags": [
+                "cable",
+                "rear delt row",
+                "upper back",
+                "shoulders"
+            ],
+            "instructions_en": "Attach a rope attachment to a cable pulley adjusted to chest or eye height. Grasp the rope ends with an overhand grip (thumbs pointing backward) and take two steps back into an athletic staggered stance with knees soft. Extend your arms forward to create cable tension with chest proud. Pull the rope ends directly toward your face and upper chest, flaring your elbows wide out to the sides at shoulder height. Squeeze your rear deltoids and pinch your shoulder blades together at the peak of the row, then slowly allow the cable to pull your arms back forward to full extension."
+        },
+        {
+            "id": 199,
+            "name": "Band Y-Raise",
+            "group": "shoulders",
+            "folder": "Shoulders",
+            "video_path": "Shoulders/Band_Y-Raise.mp4",
+            "equipment": "resistance band",
+            "body_part": "shoulders",
+            "primary_muscles": [
+                "lower traps",
+                "lateral deltoid"
+            ],
+            "secondary_muscles": [
+                "posterior deltoid",
+                "rotator cuff"
+            ],
+            "difficulty": "beginner",
+            "force": "pull",
+            "mechanic": "isolation",
+            "is_unilateral": false,
+            "tags": [
+                "band",
+                "y-raise",
+                "scapular",
+                "shoulders"
+            ],
+            "instructions_en": "Stand on the center of a resistance band with feet shoulder-width apart, holding the band handles with opposite hands so the band crosses in front of your shins. Begin with arms hanging down in front of your hips, thumbs pointing upward. Keeping your elbows straight with a soft micro-bend, raise both arms diagonally upward and outward at a 45-degree angle until your body forms a clean Y-shape overhead. Squeeze your lower trapezius and rear deltoids at the top of the range for a full second, then lower your arms slowly under control back to the crossed starting position."
+        },
+        {
+            "id": 200,
+            "name": "Kettlebell Push Press",
+            "group": "shoulders",
+            "folder": "Shoulders",
+            "video_path": "Shoulders/Kettlebell_Push_Press.mp4",
+            "equipment": "kettlebell",
+            "body_part": "shoulders",
+            "primary_muscles": [
+                "shoulders",
+                "triceps"
+            ],
+            "secondary_muscles": [
+                "quadriceps",
+                "glutes",
+                "core"
+            ],
+            "difficulty": "intermediate",
+            "force": "push",
+            "mechanic": "compound",
+            "is_unilateral": true,
+            "tags": [
+                "kettlebell",
+                "push press",
+                "shoulders",
+                "power",
+                "overhead"
+            ],
+            "instructions_en": "Clean a kettlebell into the front rack position resting on the outside of your forearm with elbow tucked against your ribs and feet shoulder-width apart. Keep your torso completely upright. Perform a quick, shallow knee dip of 2 to 3 inches, bending at the knees without hinging forward at the hips. Explosively drive through your heels to extend your knees and hips, using the momentum of your lower body to launch the kettlebell straight upward overhead to a full arm lockout. Stand tall at the top with glutes squeezed, then lower the bell smoothly back into the front rack cushion."
+        },
+        {
             "id": 201,
             "name": "Machine Single-Arm Shoulder Press",
             "group": "shoulders",
@@ -4940,6 +5625,61 @@
                 "deltoids"
             ],
             "instructions_en": "Sit in a seated shoulder press machine, adjusting the seat height so the handles align at shoulder height. Grasp the right handle with an overhand or neutral grip while resting your left hand comfortably on your left thigh, feet planted flat on the floor. Keeping your torso strictly upright and core braced, press the right handle upward along the machine's guided track until your right arm is fully extended overhead. Pause for a moment to contract your shoulder at the top, then lower the handle smoothly and under control back to shoulder level."
+        },
+        {
+            "id": 202,
+            "name": "Band Lateral Raise",
+            "group": "shoulders",
+            "folder": "Shoulders",
+            "video_path": "Shoulders/Band_Lateral_Raise.mp4",
+            "equipment": "resistance band",
+            "body_part": "shoulders",
+            "primary_muscles": [
+                "lateral deltoid"
+            ],
+            "secondary_muscles": [
+                "anterior deltoid",
+                "traps"
+            ],
+            "difficulty": "beginner",
+            "force": "pull",
+            "mechanic": "isolation",
+            "is_unilateral": false,
+            "tags": [
+                "band",
+                "lateral raise",
+                "side delts",
+                "deltoids"
+            ],
+            "instructions_en": "Stand on the center of a resistance band with feet hip-width apart, holding the band handles at your sides with palms facing inward and arms hanging straight down. Keep your shoulders relaxed down and core braced. With a slight soft bend in your elbows, raise both arms out to the sides in a wide arc until your upper arms are parallel to the floor at shoulder height, leading with your elbows and keeping your wrists neutral. Hold the peak contraction against the band's maximum tension for a full second, then lower your hands slowly back down to your sides."
+        },
+        {
+            "id": 203,
+            "name": "Band Shoulder Press",
+            "group": "shoulders",
+            "folder": "Shoulders",
+            "video_path": "Shoulders/Band_Shoulder_Press.mp4",
+            "equipment": "resistance band",
+            "body_part": "shoulders",
+            "primary_muscles": [
+                "anterior deltoid",
+                "lateral deltoid"
+            ],
+            "secondary_muscles": [
+                "triceps",
+                "traps"
+            ],
+            "difficulty": "beginner",
+            "force": "push",
+            "mechanic": "compound",
+            "is_unilateral": false,
+            "tags": [
+                "band",
+                "shoulder press",
+                "overhead press",
+                "shoulders"
+            ],
+            "instructions_en": "Stand with feet shoulder-width apart on the center of a resistance band. Bring the band handles up to shoulder height, with palms facing forward, elbows tucked beneath your wrists, and the band running behind your arms. Inhale, brace your core, and press both handles straight up overhead against the increasing elastic tension until your arms are fully locked out overhead. Pause for a moment at peak extension with shoulders engaged, then lower your hands slowly under strict control back down to shoulder level."
         },
         {
             "id": 204,

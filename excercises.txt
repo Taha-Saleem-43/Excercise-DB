@@ -104,14 +104,23 @@
 61. Arnold Press
 62. Machine Shoulder Press
 63. Dumbbell Lateral Raise
+64. Cable Lateral Raise
+65. Machine Lateral Raise
 66. Dumbbell Front Raise
 68. Rear Delt Fly
 69. Reverse Pec Deck
 70. Upright Row
 193. Pike Push-Up
+194. Handstand Push-Up
+195. Wall Handstand Hold
 196. Dumbbell Cuban Press
 197. Cable Reverse Fly
+198. Cable Rear Delt Row
+199. Band Y-Raise
+200. Kettlebell Push Press
 201. Machine Single-Arm Shoulder Press
+202. Band Lateral Raise
+203. Band Shoulder Press
 204. Incline Rear Delt Raise
 205. Barbell Bradford Press
 
@@ -126,11 +135,13 @@
 78. EZ-Bar Curl
 
 === Triceps ===
+79. Cable Tricep Pushdown
 80. Rope Tricep Pushdown
 81. Overhead Tricep Extension
 82. Dumbbell Overhead Extension
 83. Skull Crusher
 84. Close-Grip Bench Press
+85. Tricep Dips
 86. Dumbbell Tricep Kickback
 
 === Core ===
@@ -139,25 +150,33 @@
 89. Plank
 90. Side Plank
 91. Reverse Crunch
+92. Bicycle Crunch
 93. Russian Twist
 94. Leg Raise
 95. Hanging Leg Raise
 96. Knee Raise
 97. Mountain Climber
+98. Cable Crunch
 99. Ab Wheel Rollout
+100. Dead Bug
 101. Bird Dog
 102. V-Up
+153. Dumbbell Side Bend
 154. Cable Woodchopper
 155. Cable Seated Twist
 156. Pallof Press
 157. Machine Crunch
 158. Kettlebell Windmill
 160. Jackknife Sit-Up
+161. Alternate Heel Touches
 162. Captain's Chair Leg Raise
+163. Cocoon Crunch
 164. Decline Sit-Up
+165. Forearm Plank Pike
 166. Flutter Kicks
 167. Scissor Kicks
 168. Hollow Body Hold
+169. Plank Shoulder Taps
 170. Side Plank Hip Dips
 171. Commando Plank
 172. Spiderman Plank
@@ -166,7 +185,9 @@
 
 === Conditioning ===
 103. Jumping Jack
+104. Burpee
 105. High Knees
+106. Butt Kicks
 107. Jump Squat
 108. Skater
 109. Box Jump
@@ -179,6 +200,7 @@
 116. Kettlebell Clean
 117. Kettlebell Shoulder Press
 118. Battle Rope
+119. Farmer's Walk
 120. Sled Push
 175. Barbell Thruster
 176. Dumbbell Snatch
@@ -187,10 +209,14 @@
 179. Turkish Get-Up
 180. Tire Flip
 181. Medicine Ball Slam
+182. Broad Jump
 183. Star Jump
 184. Jumping Lunge
 185. Incline Treadmill Walk
 186. Stationary Bike
+187. Rope Climb
 188. Sprawl
+189. Plank Jacks
+190. Step Jacks
 191. Shadow Boxing
 192. Inchworm
